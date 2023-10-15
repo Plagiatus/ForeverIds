@@ -80,8 +80,8 @@ function loadNewList(url){
 
 function compareAndAdd(existingList, newList) {
     let currentId = existingList.reduce((acc, current) => {
-        if(acc.id > current){
-            return acc.id;
+        if(acc > current.id){
+            return acc;
         }
         return current.id;
     }, 0);
