@@ -45,6 +45,8 @@ async function run() {
     console.group("Saving files")
     fs.writeFileSync(blocksJsonPath, JSON.stringify(blocks, null, 2));
     fs.writeFileSync(itemsJsonPath, JSON.stringify(items, null, 2));
+    fs.writeFileSync(path.join(blocksDirPath, "/blocks.min.json"), JSON.stringify(blocks));
+    fs.writeFileSync(path.join(itemsDirPath, "/items.min.json"), JSON.stringify(items));
     if(githubPath && githubPath != "master")
         fs.writeFileSync(path.join(__dirname, "../VERSION.txt"), githubPath);
     console.groupEnd();
