@@ -9,8 +9,8 @@ if(argv[2]){
     githubPath = argv[2];
 }
 console.log(`Using version ${githubPath}`);
-const blocksURL = `https://raw.githubusercontent.com/Ersatz77/mcdata/${githubPath}/processed/reports/registries/block/data.json`;
-const itemsURL = `https://raw.githubusercontent.com/Ersatz77/mcdata/${githubPath}/processed/reports/registries/item/data.json`;
+const blocksURL = `https://raw.githubusercontent.com/Ersatz77/mcdata/${githubPath}/processed/reports/registries/block/data.min.json`;
+const itemsURL = `https://raw.githubusercontent.com/Ersatz77/mcdata/${githubPath}/processed/reports/registries/item/data.min.json`;
 
 const blocksFolderName = "blocks";
 const itemsFolderName = "items";
