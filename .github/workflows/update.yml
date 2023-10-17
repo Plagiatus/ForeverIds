@@ -33,6 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     needs: check_for_updates
     if: ${{ needs.check_for_updates.outputs.id != '' || github.event.inputs.ignore_update_check == 'true' }}
+    outputs:
+      additions: ${{ steps.generator.outputs.additions }}
+      deletions: ${{ steps.generator.outputs.deletions }}
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
@@ -43,11 +46,22 @@ jobs:
           node-version: 18
 
       - name: Run Generator
+        id: generator
         run: |
-          node generator/generator.js ${{ github.event.inputs.override_version || needs.check_for_updates.outputs.id }}
+          cd generator
+          npm i
+          npm start ${{ github.event.inputs.override_version || needs.check_for_updates.outputs.id }}
 
-      - name: Push Tag
-        if: ${{ github.event.inputs.override_version || needs.check_for_updates.outputs.id }}
+      - name: Needs Pull Request
+        if: ${{ steps.generator.outputs.deletions != '[]' && (github.event.inputs.override_version || needs.check_for_updates.outputs.id) }}
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: "${{ (github.event.inputs.override_version || needs.check_for_updates.outputs.id) }} - deletions"
+          branch: "deletions-${{ (github.event.inputs.override_version || needs.check_for_updates.outputs.id) }}"
+          title: "Manual check of ${{ (github.event.inputs.override_version || needs.check_for_updates.outputs.id) }} deletions and possible renames"
+
+      - name: Needs Commit and Push
+        if: ${{ steps.generator.outputs.deletions == '[]' && (github.event.inputs.override_version || needs.check_for_updates.outputs.id) }}
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: ${{ github.event.inputs.override_version || needs.check_for_updates.outputs.id }}
