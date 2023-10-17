@@ -17,6 +17,7 @@ function load(array, name, folderPath){
     let obj = `\n\ndata modify storage forever_ids:data ${name}.name_to_id set value {\\\n`;
     for(let element of array) {
         arr += `"${element.name}", \\\n`;
+        if(element.name == "") continue;
         obj += `"${element.name}": ${element.id}, \\\n`;
     }
     arr += "]";
