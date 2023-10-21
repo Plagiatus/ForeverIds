@@ -1254,6 +1254,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:zombie_spawn_egg", \
 "minecraft:zombie_villager_spawn_egg", \
 "minecraft:zombified_piglin_spawn_egg", \
+"minecraft:crafter", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2512,4 +2513,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:zombie_spawn_egg": 1252, \
 "minecraft:zombie_villager_spawn_egg": 1253, \
 "minecraft:zombified_piglin_spawn_egg": 1254, \
+"minecraft:crafter": 1255, \
 }

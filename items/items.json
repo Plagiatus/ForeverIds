@@ -5018,5 +5018,9 @@
   {
     "name": "minecraft:zombified_piglin_spawn_egg",
     "id": 1254
+  },
+  {
+    "name": "minecraft:crafter",
+    "id": 1255
   }
 ]

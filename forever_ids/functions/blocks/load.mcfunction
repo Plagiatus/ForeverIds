@@ -1002,6 +1002,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:yellow_wool", \
 "minecraft:zombie_head", \
 "minecraft:zombie_wall_head", \
+"minecraft:crafter", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2008,4 +2009,5 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:yellow_wool": 1000, \
 "minecraft:zombie_head": 1001, \
 "minecraft:zombie_wall_head": 1002, \
+"minecraft:crafter": 1003, \
 }

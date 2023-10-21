@@ -4010,5 +4010,9 @@
   {
     "name": "minecraft:zombie_wall_head",
     "id": 1002
+  },
+  {
+    "name": "minecraft:crafter",
+    "id": 1003
   }
 ]
