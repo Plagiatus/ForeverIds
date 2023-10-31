@@ -1255,6 +1255,59 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:zombie_villager_spawn_egg", \
 "minecraft:zombified_piglin_spawn_egg", \
 "minecraft:crafter", \
+"minecraft:chiseled_copper", \
+"minecraft:chiseled_tuff", \
+"minecraft:chiseled_tuff_bricks", \
+"minecraft:copper_bulb", \
+"minecraft:copper_door", \
+"minecraft:copper_grate", \
+"minecraft:copper_trapdoor", \
+"minecraft:exposed_chiseled_copper", \
+"minecraft:exposed_copper_bulb", \
+"minecraft:exposed_copper_door", \
+"minecraft:exposed_copper_grate", \
+"minecraft:exposed_copper_trapdoor", \
+"minecraft:oxidized_chiseled_copper", \
+"minecraft:oxidized_copper_bulb", \
+"minecraft:oxidized_copper_door", \
+"minecraft:oxidized_copper_grate", \
+"minecraft:oxidized_copper_trapdoor", \
+"minecraft:polished_tuff", \
+"minecraft:polished_tuff_slab", \
+"minecraft:polished_tuff_stairs", \
+"minecraft:polished_tuff_wall", \
+"minecraft:tuff_brick_slab", \
+"minecraft:tuff_brick_stairs", \
+"minecraft:tuff_brick_wall", \
+"minecraft:tuff_bricks", \
+"minecraft:tuff_slab", \
+"minecraft:tuff_stairs", \
+"minecraft:tuff_wall", \
+"minecraft:waxed_chiseled_copper", \
+"minecraft:waxed_copper_bulb", \
+"minecraft:waxed_copper_door", \
+"minecraft:waxed_copper_grate", \
+"minecraft:waxed_copper_trapdoor", \
+"minecraft:waxed_exposed_chiseled_copper", \
+"minecraft:waxed_exposed_copper_bulb", \
+"minecraft:waxed_exposed_copper_door", \
+"minecraft:waxed_exposed_copper_grate", \
+"minecraft:waxed_exposed_copper_trapdoor", \
+"minecraft:waxed_oxidized_chiseled_copper", \
+"minecraft:waxed_oxidized_copper_bulb", \
+"minecraft:waxed_oxidized_copper_door", \
+"minecraft:waxed_oxidized_copper_grate", \
+"minecraft:waxed_oxidized_copper_trapdoor", \
+"minecraft:waxed_weathered_chiseled_copper", \
+"minecraft:waxed_weathered_copper_bulb", \
+"minecraft:waxed_weathered_copper_door", \
+"minecraft:waxed_weathered_copper_grate", \
+"minecraft:waxed_weathered_copper_trapdoor", \
+"minecraft:weathered_chiseled_copper", \
+"minecraft:weathered_copper_bulb", \
+"minecraft:weathered_copper_door", \
+"minecraft:weathered_copper_grate", \
+"minecraft:weathered_copper_trapdoor", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2514,4 +2567,57 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:zombie_villager_spawn_egg": 1253, \
 "minecraft:zombified_piglin_spawn_egg": 1254, \
 "minecraft:crafter": 1255, \
+"minecraft:chiseled_copper": 1256, \
+"minecraft:chiseled_tuff": 1257, \
+"minecraft:chiseled_tuff_bricks": 1258, \
+"minecraft:copper_bulb": 1259, \
+"minecraft:copper_door": 1260, \
+"minecraft:copper_grate": 1261, \
+"minecraft:copper_trapdoor": 1262, \
+"minecraft:exposed_chiseled_copper": 1263, \
+"minecraft:exposed_copper_bulb": 1264, \
+"minecraft:exposed_copper_door": 1265, \
+"minecraft:exposed_copper_grate": 1266, \
+"minecraft:exposed_copper_trapdoor": 1267, \
+"minecraft:oxidized_chiseled_copper": 1268, \
+"minecraft:oxidized_copper_bulb": 1269, \
+"minecraft:oxidized_copper_door": 1270, \
+"minecraft:oxidized_copper_grate": 1271, \
+"minecraft:oxidized_copper_trapdoor": 1272, \
+"minecraft:polished_tuff": 1273, \
+"minecraft:polished_tuff_slab": 1274, \
+"minecraft:polished_tuff_stairs": 1275, \
+"minecraft:polished_tuff_wall": 1276, \
+"minecraft:tuff_brick_slab": 1277, \
+"minecraft:tuff_brick_stairs": 1278, \
+"minecraft:tuff_brick_wall": 1279, \
+"minecraft:tuff_bricks": 1280, \
+"minecraft:tuff_slab": 1281, \
+"minecraft:tuff_stairs": 1282, \
+"minecraft:tuff_wall": 1283, \
+"minecraft:waxed_chiseled_copper": 1284, \
+"minecraft:waxed_copper_bulb": 1285, \
+"minecraft:waxed_copper_door": 1286, \
+"minecraft:waxed_copper_grate": 1287, \
+"minecraft:waxed_copper_trapdoor": 1288, \
+"minecraft:waxed_exposed_chiseled_copper": 1289, \
+"minecraft:waxed_exposed_copper_bulb": 1290, \
+"minecraft:waxed_exposed_copper_door": 1291, \
+"minecraft:waxed_exposed_copper_grate": 1292, \
+"minecraft:waxed_exposed_copper_trapdoor": 1293, \
+"minecraft:waxed_oxidized_chiseled_copper": 1294, \
+"minecraft:waxed_oxidized_copper_bulb": 1295, \
+"minecraft:waxed_oxidized_copper_door": 1296, \
+"minecraft:waxed_oxidized_copper_grate": 1297, \
+"minecraft:waxed_oxidized_copper_trapdoor": 1298, \
+"minecraft:waxed_weathered_chiseled_copper": 1299, \
+"minecraft:waxed_weathered_copper_bulb": 1300, \
+"minecraft:waxed_weathered_copper_door": 1301, \
+"minecraft:waxed_weathered_copper_grate": 1302, \
+"minecraft:waxed_weathered_copper_trapdoor": 1303, \
+"minecraft:weathered_chiseled_copper": 1304, \
+"minecraft:weathered_copper_bulb": 1305, \
+"minecraft:weathered_copper_door": 1306, \
+"minecraft:weathered_copper_grate": 1307, \
+"minecraft:weathered_copper_trapdoor": 1308, \
 }

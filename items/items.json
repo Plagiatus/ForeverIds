@@ -5022,5 +5022,217 @@
   {
     "name": "minecraft:crafter",
     "id": 1255
+  },
+  {
+    "name": "minecraft:chiseled_copper",
+    "id": 1256
+  },
+  {
+    "name": "minecraft:chiseled_tuff",
+    "id": 1257
+  },
+  {
+    "name": "minecraft:chiseled_tuff_bricks",
+    "id": 1258
+  },
+  {
+    "name": "minecraft:copper_bulb",
+    "id": 1259
+  },
+  {
+    "name": "minecraft:copper_door",
+    "id": 1260
+  },
+  {
+    "name": "minecraft:copper_grate",
+    "id": 1261
+  },
+  {
+    "name": "minecraft:copper_trapdoor",
+    "id": 1262
+  },
+  {
+    "name": "minecraft:exposed_chiseled_copper",
+    "id": 1263
+  },
+  {
+    "name": "minecraft:exposed_copper_bulb",
+    "id": 1264
+  },
+  {
+    "name": "minecraft:exposed_copper_door",
+    "id": 1265
+  },
+  {
+    "name": "minecraft:exposed_copper_grate",
+    "id": 1266
+  },
+  {
+    "name": "minecraft:exposed_copper_trapdoor",
+    "id": 1267
+  },
+  {
+    "name": "minecraft:oxidized_chiseled_copper",
+    "id": 1268
+  },
+  {
+    "name": "minecraft:oxidized_copper_bulb",
+    "id": 1269
+  },
+  {
+    "name": "minecraft:oxidized_copper_door",
+    "id": 1270
+  },
+  {
+    "name": "minecraft:oxidized_copper_grate",
+    "id": 1271
+  },
+  {
+    "name": "minecraft:oxidized_copper_trapdoor",
+    "id": 1272
+  },
+  {
+    "name": "minecraft:polished_tuff",
+    "id": 1273
+  },
+  {
+    "name": "minecraft:polished_tuff_slab",
+    "id": 1274
+  },
+  {
+    "name": "minecraft:polished_tuff_stairs",
+    "id": 1275
+  },
+  {
+    "name": "minecraft:polished_tuff_wall",
+    "id": 1276
+  },
+  {
+    "name": "minecraft:tuff_brick_slab",
+    "id": 1277
+  },
+  {
+    "name": "minecraft:tuff_brick_stairs",
+    "id": 1278
+  },
+  {
+    "name": "minecraft:tuff_brick_wall",
+    "id": 1279
+  },
+  {
+    "name": "minecraft:tuff_bricks",
+    "id": 1280
+  },
+  {
+    "name": "minecraft:tuff_slab",
+    "id": 1281
+  },
+  {
+    "name": "minecraft:tuff_stairs",
+    "id": 1282
+  },
+  {
+    "name": "minecraft:tuff_wall",
+    "id": 1283
+  },
+  {
+    "name": "minecraft:waxed_chiseled_copper",
+    "id": 1284
+  },
+  {
+    "name": "minecraft:waxed_copper_bulb",
+    "id": 1285
+  },
+  {
+    "name": "minecraft:waxed_copper_door",
+    "id": 1286
+  },
+  {
+    "name": "minecraft:waxed_copper_grate",
+    "id": 1287
+  },
+  {
+    "name": "minecraft:waxed_copper_trapdoor",
+    "id": 1288
+  },
+  {
+    "name": "minecraft:waxed_exposed_chiseled_copper",
+    "id": 1289
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_bulb",
+    "id": 1290
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_door",
+    "id": 1291
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_grate",
+    "id": 1292
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_trapdoor",
+    "id": 1293
+  },
+  {
+    "name": "minecraft:waxed_oxidized_chiseled_copper",
+    "id": 1294
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_bulb",
+    "id": 1295
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_door",
+    "id": 1296
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_grate",
+    "id": 1297
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_trapdoor",
+    "id": 1298
+  },
+  {
+    "name": "minecraft:waxed_weathered_chiseled_copper",
+    "id": 1299
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_bulb",
+    "id": 1300
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_door",
+    "id": 1301
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_grate",
+    "id": 1302
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_trapdoor",
+    "id": 1303
+  },
+  {
+    "name": "minecraft:weathered_chiseled_copper",
+    "id": 1304
+  },
+  {
+    "name": "minecraft:weathered_copper_bulb",
+    "id": 1305
+  },
+  {
+    "name": "minecraft:weathered_copper_door",
+    "id": 1306
+  },
+  {
+    "name": "minecraft:weathered_copper_grate",
+    "id": 1307
+  },
+  {
+    "name": "minecraft:weathered_copper_trapdoor",
+    "id": 1308
   }
 ]
