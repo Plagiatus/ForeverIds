@@ -4226,5 +4226,9 @@
   {
     "name": "minecraft:weathered_copper_trapdoor",
     "id": 1056
+  },
+  {
+    "name": "minecraft:trial_spawner",
+    "id": 1057
   }
 ]

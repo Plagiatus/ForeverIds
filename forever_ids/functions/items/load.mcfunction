@@ -1308,6 +1308,9 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:weathered_copper_door", \
 "minecraft:weathered_copper_grate", \
 "minecraft:weathered_copper_trapdoor", \
+"minecraft:breeze_spawn_egg", \
+"minecraft:trial_key", \
+"minecraft:trial_spawner", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2620,4 +2623,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:weathered_copper_door": 1306, \
 "minecraft:weathered_copper_grate": 1307, \
 "minecraft:weathered_copper_trapdoor": 1308, \
+"minecraft:breeze_spawn_egg": 1309, \
+"minecraft:trial_key": 1310, \
+"minecraft:trial_spawner": 1311, \
 }

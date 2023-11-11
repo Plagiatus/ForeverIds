@@ -5234,5 +5234,17 @@
   {
     "name": "minecraft:weathered_copper_trapdoor",
     "id": 1308
+  },
+  {
+    "name": "minecraft:breeze_spawn_egg",
+    "id": 1309
+  },
+  {
+    "name": "minecraft:trial_key",
+    "id": 1310
+  },
+  {
+    "name": "minecraft:trial_spawner",
+    "id": 1311
   }
 ]

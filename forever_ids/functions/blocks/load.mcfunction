@@ -1056,6 +1056,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:weathered_copper_door", \
 "minecraft:weathered_copper_grate", \
 "minecraft:weathered_copper_trapdoor", \
+"minecraft:trial_spawner", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2116,4 +2117,5 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:weathered_copper_door": 1054, \
 "minecraft:weathered_copper_grate": 1055, \
 "minecraft:weathered_copper_trapdoor": 1056, \
+"minecraft:trial_spawner": 1057, \
 }
