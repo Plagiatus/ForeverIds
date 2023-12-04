@@ -1988,7 +1988,7 @@
     "id": 496
   },
   {
-    "name": "",
+    "name": "minecraft:short_grass",
     "id": 497,
     "previous": [
       {
@@ -5252,9 +5252,5 @@
   {
     "name": "minecraft:trial_spawner",
     "id": 1311
-  },
-  {
-    "name": "minecraft:short_grass",
-    "id": 1312
   }
 ]
