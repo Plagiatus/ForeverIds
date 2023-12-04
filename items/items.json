@@ -1988,8 +1988,14 @@
     "id": 496
   },
   {
-    "name": "minecraft:grass",
-    "id": 497
+    "name": "",
+    "id": 497,
+    "previous": [
+      {
+        "name": "minecraft:grass",
+        "removed_in": "1.20.3-pre1"
+      }
+    ]
   },
   {
     "name": "minecraft:grass_block",
@@ -5246,5 +5252,9 @@
   {
     "name": "minecraft:trial_spawner",
     "id": 1311
+  },
+  {
+    "name": "minecraft:short_grass",
+    "id": 1312
   }
 ]
