@@ -1528,8 +1528,14 @@
     "id": 381
   },
   {
-    "name": "minecraft:grass",
-    "id": 382
+    "name": "minecraft:short_grass",
+    "id": 382,
+    "previous": [
+      {
+        "name": "minecraft:grass",
+        "removed_in": "1.20.3-pre1"
+      }
+    ]
   },
   {
     "name": "minecraft:grass_block",

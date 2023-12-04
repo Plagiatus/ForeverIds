@@ -496,7 +496,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:granite_slab", \
 "minecraft:granite_stairs", \
 "minecraft:granite_wall", \
-"minecraft:grass", \
+"minecraft:short_grass", \
 "minecraft:grass_block", \
 "minecraft:gravel", \
 "minecraft:gray_banner", \
@@ -1811,7 +1811,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:granite_slab": 494, \
 "minecraft:granite_stairs": 495, \
 "minecraft:granite_wall": 496, \
-"minecraft:grass": 497, \
+"minecraft:short_grass": 497, \
 "minecraft:grass_block": 498, \
 "minecraft:gravel": 499, \
 "minecraft:gray_banner": 500, \
