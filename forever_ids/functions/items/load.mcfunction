@@ -994,7 +994,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:sculk_sensor", \
 "minecraft:sculk_shrieker", \
 "minecraft:sculk_vein", \
-"", \
+"minecraft:turtle_scute", \
 "minecraft:sea_lantern", \
 "minecraft:sea_pickle", \
 "minecraft:seagrass", \
@@ -1313,7 +1313,6 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:trial_spawner", \
 "minecraft:armadillo_scute", \
 "minecraft:armadillo_spawn_egg", \
-"minecraft:turtle_scute", \
 "minecraft:wolf_armor", \
 ]
 
@@ -2313,6 +2312,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:sculk_sensor": 992, \
 "minecraft:sculk_shrieker": 993, \
 "minecraft:sculk_vein": 994, \
+"minecraft:turtle_scute": 995, \
 "minecraft:sea_lantern": 996, \
 "minecraft:sea_pickle": 997, \
 "minecraft:seagrass": 998, \
@@ -2631,6 +2631,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:trial_spawner": 1311, \
 "minecraft:armadillo_scute": 1312, \
 "minecraft:armadillo_spawn_egg": 1313, \
-"minecraft:turtle_scute": 1314, \
-"minecraft:wolf_armor": 1315, \
+"minecraft:wolf_armor": 1314, \
 }
