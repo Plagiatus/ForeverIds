@@ -3986,8 +3986,14 @@
     "id": 994
   },
   {
-    "name": "minecraft:scute",
-    "id": 995
+    "name": "minecraft:turtle_scute",
+    "id": 995,
+    "previous": [
+      {
+        "name": "minecraft:scute",
+        "removed_in": "24w03a"
+      }
+    ]
   },
   {
     "name": "minecraft:sea_lantern",
@@ -5252,5 +5258,17 @@
   {
     "name": "minecraft:trial_spawner",
     "id": 1311
+  },
+  {
+    "name": "minecraft:armadillo_scute",
+    "id": 1312
+  },
+  {
+    "name": "minecraft:armadillo_spawn_egg",
+    "id": 1313
+  },
+  {
+    "name": "minecraft:wolf_armor",
+    "id": 1314
   }
 ]
