@@ -1314,6 +1314,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:armadillo_scute", \
 "minecraft:armadillo_spawn_egg", \
 "minecraft:wolf_armor", \
+"minecraft:vault", \
+"minecraft:wind_charge", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2632,4 +2634,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:armadillo_scute": 1312, \
 "minecraft:armadillo_spawn_egg": 1313, \
 "minecraft:wolf_armor": 1314, \
+"minecraft:vault": 1315, \
+"minecraft:wind_charge": 1316, \
 }

@@ -4236,5 +4236,9 @@
   {
     "name": "minecraft:trial_spawner",
     "id": 1057
+  },
+  {
+    "name": "minecraft:vault",
+    "id": 1058
   }
 ]

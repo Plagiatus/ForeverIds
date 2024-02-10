@@ -5270,5 +5270,13 @@
   {
     "name": "minecraft:wolf_armor",
     "id": 1314
+  },
+  {
+    "name": "minecraft:vault",
+    "id": 1315
+  },
+  {
+    "name": "minecraft:wind_charge",
+    "id": 1316
   }
 ]
