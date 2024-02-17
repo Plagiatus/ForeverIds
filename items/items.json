@@ -5278,5 +5278,9 @@
   {
     "name": "minecraft:wind_charge",
     "id": 1316
+  },
+  {
+    "name": "minecraft:bogged_spawn_egg",
+    "id": 1317
   }
 ]

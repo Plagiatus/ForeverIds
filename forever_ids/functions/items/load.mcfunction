@@ -1316,6 +1316,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:wolf_armor", \
 "minecraft:vault", \
 "minecraft:wind_charge", \
+"minecraft:bogged_spawn_egg", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2636,4 +2637,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:wolf_armor": 1314, \
 "minecraft:vault": 1315, \
 "minecraft:wind_charge": 1316, \
+"minecraft:bogged_spawn_egg": 1317, \
 }
