@@ -4240,5 +4240,9 @@
   {
     "name": "minecraft:vault",
     "id": 1058
+  },
+  {
+    "name": "minecraft:heavy_core",
+    "id": 1059
   }
 ]

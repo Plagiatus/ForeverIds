@@ -1317,6 +1317,16 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:vault", \
 "minecraft:wind_charge", \
 "minecraft:bogged_spawn_egg", \
+"minecraft:bolt_armor_trim_smithing_template", \
+"minecraft:breeze_rod", \
+"minecraft:flow_armor_trim_smithing_template", \
+"minecraft:flow_banner_pattern", \
+"minecraft:flow_pottery_sherd", \
+"minecraft:guster_banner_pattern", \
+"minecraft:guster_pottery_sherd", \
+"minecraft:heavy_core", \
+"minecraft:mace", \
+"minecraft:scrape_pottery_sherd", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2638,4 +2648,14 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:vault": 1315, \
 "minecraft:wind_charge": 1316, \
 "minecraft:bogged_spawn_egg": 1317, \
+"minecraft:bolt_armor_trim_smithing_template": 1318, \
+"minecraft:breeze_rod": 1319, \
+"minecraft:flow_armor_trim_smithing_template": 1320, \
+"minecraft:flow_banner_pattern": 1321, \
+"minecraft:flow_pottery_sherd": 1322, \
+"minecraft:guster_banner_pattern": 1323, \
+"minecraft:guster_pottery_sherd": 1324, \
+"minecraft:heavy_core": 1325, \
+"minecraft:mace": 1326, \
+"minecraft:scrape_pottery_sherd": 1327, \
 }

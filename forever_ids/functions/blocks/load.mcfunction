@@ -1058,6 +1058,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:weathered_copper_trapdoor", \
 "minecraft:trial_spawner", \
 "minecraft:vault", \
+"minecraft:heavy_core", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2120,4 +2121,5 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:weathered_copper_trapdoor": 1056, \
 "minecraft:trial_spawner": 1057, \
 "minecraft:vault": 1058, \
+"minecraft:heavy_core": 1059, \
 }

@@ -5282,5 +5282,45 @@
   {
     "name": "minecraft:bogged_spawn_egg",
     "id": 1317
+  },
+  {
+    "name": "minecraft:bolt_armor_trim_smithing_template",
+    "id": 1318
+  },
+  {
+    "name": "minecraft:breeze_rod",
+    "id": 1319
+  },
+  {
+    "name": "minecraft:flow_armor_trim_smithing_template",
+    "id": 1320
+  },
+  {
+    "name": "minecraft:flow_banner_pattern",
+    "id": 1321
+  },
+  {
+    "name": "minecraft:flow_pottery_sherd",
+    "id": 1322
+  },
+  {
+    "name": "minecraft:guster_banner_pattern",
+    "id": 1323
+  },
+  {
+    "name": "minecraft:guster_pottery_sherd",
+    "id": 1324
+  },
+  {
+    "name": "minecraft:heavy_core",
+    "id": 1325
+  },
+  {
+    "name": "minecraft:mace",
+    "id": 1326
+  },
+  {
+    "name": "minecraft:scrape_pottery_sherd",
+    "id": 1327
   }
 ]
