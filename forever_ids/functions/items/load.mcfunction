@@ -1327,6 +1327,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:heavy_core", \
 "minecraft:mace", \
 "minecraft:scrape_pottery_sherd", \
+"minecraft:ominous_bottle", \
+"minecraft:ominous_trial_key", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2658,4 +2660,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:heavy_core": 1325, \
 "minecraft:mace": 1326, \
 "minecraft:scrape_pottery_sherd": 1327, \
+"minecraft:ominous_bottle": 1328, \
+"minecraft:ominous_trial_key": 1329, \
 }

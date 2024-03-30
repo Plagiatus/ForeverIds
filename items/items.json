@@ -5322,5 +5322,13 @@
   {
     "name": "minecraft:scrape_pottery_sherd",
     "id": 1327
+  },
+  {
+    "name": "minecraft:ominous_bottle",
+    "id": 1328
+  },
+  {
+    "name": "minecraft:ominous_trial_key",
+    "id": 1329
   }
 ]
