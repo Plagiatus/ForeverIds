@@ -1329,6 +1329,9 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:scrape_pottery_sherd", \
 "minecraft:ominous_bottle", \
 "minecraft:ominous_trial_key", \
+"minecraft:music_disc_creator", \
+"minecraft:music_disc_creator_music_box", \
+"minecraft:music_disc_precipice", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2662,4 +2665,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:scrape_pottery_sherd": 1327, \
 "minecraft:ominous_bottle": 1328, \
 "minecraft:ominous_trial_key": 1329, \
+"minecraft:music_disc_creator": 1330, \
+"minecraft:music_disc_creator_music_box": 1331, \
+"minecraft:music_disc_precipice": 1332, \
 }

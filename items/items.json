@@ -5330,5 +5330,17 @@
   {
     "name": "minecraft:ominous_trial_key",
     "id": 1329
+  },
+  {
+    "name": "minecraft:music_disc_creator",
+    "id": 1330
+  },
+  {
+    "name": "minecraft:music_disc_creator_music_box",
+    "id": 1331
+  },
+  {
+    "name": "minecraft:music_disc_precipice",
+    "id": 1332
   }
 ]
