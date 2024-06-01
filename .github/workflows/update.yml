@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: "0 6 * * 6" # every saturday at 6am
+    - cron: "0 6 * * *" # every saturday at 6am
   workflow_dispatch:
     inputs: 
       ignore_update_check: 
