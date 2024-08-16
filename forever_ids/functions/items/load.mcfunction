@@ -1332,6 +1332,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:music_disc_creator", \
 "minecraft:music_disc_creator_music_box", \
 "minecraft:music_disc_precipice", \
+"minecraft:bordure_indented_banner_pattern", \
+"minecraft:field_masoned_banner_pattern", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2668,4 +2670,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:music_disc_creator": 1330, \
 "minecraft:music_disc_creator_music_box": 1331, \
 "minecraft:music_disc_precipice": 1332, \
+"minecraft:bordure_indented_banner_pattern": 1333, \
+"minecraft:field_masoned_banner_pattern": 1334, \
 }

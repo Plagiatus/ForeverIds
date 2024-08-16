@@ -5342,5 +5342,13 @@
   {
     "name": "minecraft:music_disc_precipice",
     "id": 1332
+  },
+  {
+    "name": "minecraft:bordure_indented_banner_pattern",
+    "id": 1333
+  },
+  {
+    "name": "minecraft:field_masoned_banner_pattern",
+    "id": 1334
   }
 ]
