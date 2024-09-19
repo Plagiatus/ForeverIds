@@ -5350,5 +5350,69 @@
   {
     "name": "minecraft:field_masoned_banner_pattern",
     "id": 1334
+  },
+  {
+    "name": "minecraft:black_bundle",
+    "id": 1335
+  },
+  {
+    "name": "minecraft:blue_bundle",
+    "id": 1336
+  },
+  {
+    "name": "minecraft:brown_bundle",
+    "id": 1337
+  },
+  {
+    "name": "minecraft:cyan_bundle",
+    "id": 1338
+  },
+  {
+    "name": "minecraft:gray_bundle",
+    "id": 1339
+  },
+  {
+    "name": "minecraft:green_bundle",
+    "id": 1340
+  },
+  {
+    "name": "minecraft:light_blue_bundle",
+    "id": 1341
+  },
+  {
+    "name": "minecraft:light_gray_bundle",
+    "id": 1342
+  },
+  {
+    "name": "minecraft:lime_bundle",
+    "id": 1343
+  },
+  {
+    "name": "minecraft:magenta_bundle",
+    "id": 1344
+  },
+  {
+    "name": "minecraft:orange_bundle",
+    "id": 1345
+  },
+  {
+    "name": "minecraft:pink_bundle",
+    "id": 1346
+  },
+  {
+    "name": "minecraft:purple_bundle",
+    "id": 1347
+  },
+  {
+    "name": "minecraft:red_bundle",
+    "id": 1348
+  },
+  {
+    "name": "minecraft:white_bundle",
+    "id": 1349
+  },
+  {
+    "name": "minecraft:yellow_bundle",
+    "id": 1350
   }
 ]

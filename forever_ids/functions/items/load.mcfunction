@@ -1334,6 +1334,22 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:music_disc_precipice", \
 "minecraft:bordure_indented_banner_pattern", \
 "minecraft:field_masoned_banner_pattern", \
+"minecraft:black_bundle", \
+"minecraft:blue_bundle", \
+"minecraft:brown_bundle", \
+"minecraft:cyan_bundle", \
+"minecraft:gray_bundle", \
+"minecraft:green_bundle", \
+"minecraft:light_blue_bundle", \
+"minecraft:light_gray_bundle", \
+"minecraft:lime_bundle", \
+"minecraft:magenta_bundle", \
+"minecraft:orange_bundle", \
+"minecraft:pink_bundle", \
+"minecraft:purple_bundle", \
+"minecraft:red_bundle", \
+"minecraft:white_bundle", \
+"minecraft:yellow_bundle", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2672,4 +2688,20 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:music_disc_precipice": 1332, \
 "minecraft:bordure_indented_banner_pattern": 1333, \
 "minecraft:field_masoned_banner_pattern": 1334, \
+"minecraft:black_bundle": 1335, \
+"minecraft:blue_bundle": 1336, \
+"minecraft:brown_bundle": 1337, \
+"minecraft:cyan_bundle": 1338, \
+"minecraft:gray_bundle": 1339, \
+"minecraft:green_bundle": 1340, \
+"minecraft:light_blue_bundle": 1341, \
+"minecraft:light_gray_bundle": 1342, \
+"minecraft:lime_bundle": 1343, \
+"minecraft:magenta_bundle": 1344, \
+"minecraft:orange_bundle": 1345, \
+"minecraft:pink_bundle": 1346, \
+"minecraft:purple_bundle": 1347, \
+"minecraft:red_bundle": 1348, \
+"minecraft:white_bundle": 1349, \
+"minecraft:yellow_bundle": 1350, \
 }
