@@ -1350,6 +1350,30 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:red_bundle", \
 "minecraft:white_bundle", \
 "minecraft:yellow_bundle", \
+"minecraft:creaking_heart", \
+"minecraft:creaking_spawn_egg", \
+"minecraft:pale_hanging_moss", \
+"minecraft:pale_moss_block", \
+"minecraft:pale_moss_carpet", \
+"minecraft:pale_oak_boat", \
+"minecraft:pale_oak_button", \
+"minecraft:pale_oak_chest_boat", \
+"minecraft:pale_oak_door", \
+"minecraft:pale_oak_fence", \
+"minecraft:pale_oak_fence_gate", \
+"minecraft:pale_oak_hanging_sign", \
+"minecraft:pale_oak_leaves", \
+"minecraft:pale_oak_log", \
+"minecraft:pale_oak_planks", \
+"minecraft:pale_oak_pressure_plate", \
+"minecraft:pale_oak_sapling", \
+"minecraft:pale_oak_sign", \
+"minecraft:pale_oak_slab", \
+"minecraft:pale_oak_stairs", \
+"minecraft:pale_oak_trapdoor", \
+"minecraft:pale_oak_wood", \
+"minecraft:stripped_pale_oak_log", \
+"minecraft:stripped_pale_oak_wood", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2704,4 +2728,28 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:red_bundle": 1348, \
 "minecraft:white_bundle": 1349, \
 "minecraft:yellow_bundle": 1350, \
+"minecraft:creaking_heart": 1351, \
+"minecraft:creaking_spawn_egg": 1352, \
+"minecraft:pale_hanging_moss": 1353, \
+"minecraft:pale_moss_block": 1354, \
+"minecraft:pale_moss_carpet": 1355, \
+"minecraft:pale_oak_boat": 1356, \
+"minecraft:pale_oak_button": 1357, \
+"minecraft:pale_oak_chest_boat": 1358, \
+"minecraft:pale_oak_door": 1359, \
+"minecraft:pale_oak_fence": 1360, \
+"minecraft:pale_oak_fence_gate": 1361, \
+"minecraft:pale_oak_hanging_sign": 1362, \
+"minecraft:pale_oak_leaves": 1363, \
+"minecraft:pale_oak_log": 1364, \
+"minecraft:pale_oak_planks": 1365, \
+"minecraft:pale_oak_pressure_plate": 1366, \
+"minecraft:pale_oak_sapling": 1367, \
+"minecraft:pale_oak_sign": 1368, \
+"minecraft:pale_oak_slab": 1369, \
+"minecraft:pale_oak_stairs": 1370, \
+"minecraft:pale_oak_trapdoor": 1371, \
+"minecraft:pale_oak_wood": 1372, \
+"minecraft:stripped_pale_oak_log": 1373, \
+"minecraft:stripped_pale_oak_wood": 1374, \
 }

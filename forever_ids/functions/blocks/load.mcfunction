@@ -1059,6 +1059,30 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:trial_spawner", \
 "minecraft:vault", \
 "minecraft:heavy_core", \
+"minecraft:creaking_heart", \
+"minecraft:pale_hanging_moss", \
+"minecraft:pale_moss_block", \
+"minecraft:pale_moss_carpet", \
+"minecraft:pale_oak_button", \
+"minecraft:pale_oak_door", \
+"minecraft:pale_oak_fence", \
+"minecraft:pale_oak_fence_gate", \
+"minecraft:pale_oak_hanging_sign", \
+"minecraft:pale_oak_leaves", \
+"minecraft:pale_oak_log", \
+"minecraft:pale_oak_planks", \
+"minecraft:pale_oak_pressure_plate", \
+"minecraft:pale_oak_sapling", \
+"minecraft:pale_oak_sign", \
+"minecraft:pale_oak_slab", \
+"minecraft:pale_oak_stairs", \
+"minecraft:pale_oak_trapdoor", \
+"minecraft:pale_oak_wall_hanging_sign", \
+"minecraft:pale_oak_wall_sign", \
+"minecraft:pale_oak_wood", \
+"minecraft:potted_pale_oak_sapling", \
+"minecraft:stripped_pale_oak_log", \
+"minecraft:stripped_pale_oak_wood", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2122,4 +2146,28 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:trial_spawner": 1057, \
 "minecraft:vault": 1058, \
 "minecraft:heavy_core": 1059, \
+"minecraft:creaking_heart": 1060, \
+"minecraft:pale_hanging_moss": 1061, \
+"minecraft:pale_moss_block": 1062, \
+"minecraft:pale_moss_carpet": 1063, \
+"minecraft:pale_oak_button": 1064, \
+"minecraft:pale_oak_door": 1065, \
+"minecraft:pale_oak_fence": 1066, \
+"minecraft:pale_oak_fence_gate": 1067, \
+"minecraft:pale_oak_hanging_sign": 1068, \
+"minecraft:pale_oak_leaves": 1069, \
+"minecraft:pale_oak_log": 1070, \
+"minecraft:pale_oak_planks": 1071, \
+"minecraft:pale_oak_pressure_plate": 1072, \
+"minecraft:pale_oak_sapling": 1073, \
+"minecraft:pale_oak_sign": 1074, \
+"minecraft:pale_oak_slab": 1075, \
+"minecraft:pale_oak_stairs": 1076, \
+"minecraft:pale_oak_trapdoor": 1077, \
+"minecraft:pale_oak_wall_hanging_sign": 1078, \
+"minecraft:pale_oak_wall_sign": 1079, \
+"minecraft:pale_oak_wood": 1080, \
+"minecraft:potted_pale_oak_sapling": 1081, \
+"minecraft:stripped_pale_oak_log": 1082, \
+"minecraft:stripped_pale_oak_wood": 1083, \
 }

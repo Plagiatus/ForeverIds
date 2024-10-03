@@ -4244,5 +4244,101 @@
   {
     "name": "minecraft:heavy_core",
     "id": 1059
+  },
+  {
+    "name": "minecraft:creaking_heart",
+    "id": 1060
+  },
+  {
+    "name": "minecraft:pale_hanging_moss",
+    "id": 1061
+  },
+  {
+    "name": "minecraft:pale_moss_block",
+    "id": 1062
+  },
+  {
+    "name": "minecraft:pale_moss_carpet",
+    "id": 1063
+  },
+  {
+    "name": "minecraft:pale_oak_button",
+    "id": 1064
+  },
+  {
+    "name": "minecraft:pale_oak_door",
+    "id": 1065
+  },
+  {
+    "name": "minecraft:pale_oak_fence",
+    "id": 1066
+  },
+  {
+    "name": "minecraft:pale_oak_fence_gate",
+    "id": 1067
+  },
+  {
+    "name": "minecraft:pale_oak_hanging_sign",
+    "id": 1068
+  },
+  {
+    "name": "minecraft:pale_oak_leaves",
+    "id": 1069
+  },
+  {
+    "name": "minecraft:pale_oak_log",
+    "id": 1070
+  },
+  {
+    "name": "minecraft:pale_oak_planks",
+    "id": 1071
+  },
+  {
+    "name": "minecraft:pale_oak_pressure_plate",
+    "id": 1072
+  },
+  {
+    "name": "minecraft:pale_oak_sapling",
+    "id": 1073
+  },
+  {
+    "name": "minecraft:pale_oak_sign",
+    "id": 1074
+  },
+  {
+    "name": "minecraft:pale_oak_slab",
+    "id": 1075
+  },
+  {
+    "name": "minecraft:pale_oak_stairs",
+    "id": 1076
+  },
+  {
+    "name": "minecraft:pale_oak_trapdoor",
+    "id": 1077
+  },
+  {
+    "name": "minecraft:pale_oak_wall_hanging_sign",
+    "id": 1078
+  },
+  {
+    "name": "minecraft:pale_oak_wall_sign",
+    "id": 1079
+  },
+  {
+    "name": "minecraft:pale_oak_wood",
+    "id": 1080
+  },
+  {
+    "name": "minecraft:potted_pale_oak_sapling",
+    "id": 1081
+  },
+  {
+    "name": "minecraft:stripped_pale_oak_log",
+    "id": 1082
+  },
+  {
+    "name": "minecraft:stripped_pale_oak_wood",
+    "id": 1083
   }
 ]
