@@ -1083,6 +1083,17 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:potted_pale_oak_sapling", \
 "minecraft:stripped_pale_oak_log", \
 "minecraft:stripped_pale_oak_wood", \
+"minecraft:chiseled_resin_bricks", \
+"minecraft:closed_eyeblossom", \
+"minecraft:open_eyeblossom", \
+"minecraft:potted_closed_eyeblossom", \
+"minecraft:potted_open_eyeblossom", \
+"minecraft:resin_block", \
+"minecraft:resin_brick_slab", \
+"minecraft:resin_brick_stairs", \
+"minecraft:resin_brick_wall", \
+"minecraft:resin_bricks", \
+"minecraft:resin_clump", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2170,4 +2181,15 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:potted_pale_oak_sapling": 1081, \
 "minecraft:stripped_pale_oak_log": 1082, \
 "minecraft:stripped_pale_oak_wood": 1083, \
+"minecraft:chiseled_resin_bricks": 1084, \
+"minecraft:closed_eyeblossom": 1085, \
+"minecraft:open_eyeblossom": 1086, \
+"minecraft:potted_closed_eyeblossom": 1087, \
+"minecraft:potted_open_eyeblossom": 1088, \
+"minecraft:resin_block": 1089, \
+"minecraft:resin_brick_slab": 1090, \
+"minecraft:resin_brick_stairs": 1091, \
+"minecraft:resin_brick_wall": 1092, \
+"minecraft:resin_bricks": 1093, \
+"minecraft:resin_clump": 1094, \
 }

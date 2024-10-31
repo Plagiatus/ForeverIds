@@ -1374,6 +1374,16 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:pale_oak_wood", \
 "minecraft:stripped_pale_oak_log", \
 "minecraft:stripped_pale_oak_wood", \
+"minecraft:chiseled_resin_bricks", \
+"minecraft:closed_eyeblossom", \
+"minecraft:open_eyeblossom", \
+"minecraft:resin_block", \
+"minecraft:resin_brick", \
+"minecraft:resin_brick_slab", \
+"minecraft:resin_brick_stairs", \
+"minecraft:resin_brick_wall", \
+"minecraft:resin_bricks", \
+"minecraft:resin_clump", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2752,4 +2762,14 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:pale_oak_wood": 1372, \
 "minecraft:stripped_pale_oak_log": 1373, \
 "minecraft:stripped_pale_oak_wood": 1374, \
+"minecraft:chiseled_resin_bricks": 1375, \
+"minecraft:closed_eyeblossom": 1376, \
+"minecraft:open_eyeblossom": 1377, \
+"minecraft:resin_block": 1378, \
+"minecraft:resin_brick": 1379, \
+"minecraft:resin_brick_slab": 1380, \
+"minecraft:resin_brick_stairs": 1381, \
+"minecraft:resin_brick_wall": 1382, \
+"minecraft:resin_bricks": 1383, \
+"minecraft:resin_clump": 1384, \
 }

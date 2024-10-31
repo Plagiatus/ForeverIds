@@ -4340,5 +4340,49 @@
   {
     "name": "minecraft:stripped_pale_oak_wood",
     "id": 1083
+  },
+  {
+    "name": "minecraft:chiseled_resin_bricks",
+    "id": 1084
+  },
+  {
+    "name": "minecraft:closed_eyeblossom",
+    "id": 1085
+  },
+  {
+    "name": "minecraft:open_eyeblossom",
+    "id": 1086
+  },
+  {
+    "name": "minecraft:potted_closed_eyeblossom",
+    "id": 1087
+  },
+  {
+    "name": "minecraft:potted_open_eyeblossom",
+    "id": 1088
+  },
+  {
+    "name": "minecraft:resin_block",
+    "id": 1089
+  },
+  {
+    "name": "minecraft:resin_brick_slab",
+    "id": 1090
+  },
+  {
+    "name": "minecraft:resin_brick_stairs",
+    "id": 1091
+  },
+  {
+    "name": "minecraft:resin_brick_wall",
+    "id": 1092
+  },
+  {
+    "name": "minecraft:resin_bricks",
+    "id": 1093
+  },
+  {
+    "name": "minecraft:resin_clump",
+    "id": 1094
   }
 ]
