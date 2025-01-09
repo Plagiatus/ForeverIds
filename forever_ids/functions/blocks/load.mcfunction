@@ -1094,6 +1094,8 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:resin_brick_wall", \
 "minecraft:resin_bricks", \
 "minecraft:resin_clump", \
+"minecraft:leaf_litter", \
+"minecraft:wildflowers", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2192,4 +2194,6 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:resin_brick_wall": 1092, \
 "minecraft:resin_bricks": 1093, \
 "minecraft:resin_clump": 1094, \
+"minecraft:leaf_litter": 1095, \
+"minecraft:wildflowers": 1096, \
 }

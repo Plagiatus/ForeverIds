@@ -4384,5 +4384,13 @@
   {
     "name": "minecraft:resin_clump",
     "id": 1094
+  },
+  {
+    "name": "minecraft:leaf_litter",
+    "id": 1095
+  },
+  {
+    "name": "minecraft:wildflowers",
+    "id": 1096
   }
 ]
