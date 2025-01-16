@@ -5558,5 +5558,13 @@
   {
     "name": "minecraft:wildflowers",
     "id": 1386
+  },
+  {
+    "name": "minecraft:test_block",
+    "id": 1387
+  },
+  {
+    "name": "minecraft:test_instance_block",
+    "id": 1388
   }
 ]

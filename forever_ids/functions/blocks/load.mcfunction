@@ -1096,6 +1096,8 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:resin_clump", \
 "minecraft:leaf_litter", \
 "minecraft:wildflowers", \
+"minecraft:test_block", \
+"minecraft:test_instance_block", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2196,4 +2198,6 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:resin_clump": 1094, \
 "minecraft:leaf_litter": 1095, \
 "minecraft:wildflowers": 1096, \
+"minecraft:test_block": 1097, \
+"minecraft:test_instance_block": 1098, \
 }
