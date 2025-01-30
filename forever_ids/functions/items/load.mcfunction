@@ -1388,6 +1388,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:wildflowers", \
 "minecraft:test_block", \
 "minecraft:test_instance_block", \
+"minecraft:bush", \
+"minecraft:firefly_bush", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2780,4 +2782,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:wildflowers": 1386, \
 "minecraft:test_block": 1387, \
 "minecraft:test_instance_block": 1388, \
+"minecraft:bush": 1389, \
+"minecraft:firefly_bush": 1390, \
 }

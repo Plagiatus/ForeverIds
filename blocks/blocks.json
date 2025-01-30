@@ -4400,5 +4400,13 @@
   {
     "name": "minecraft:test_instance_block",
     "id": 1098
+  },
+  {
+    "name": "minecraft:bush",
+    "id": 1099
+  },
+  {
+    "name": "minecraft:firefly_bush",
+    "id": 1100
   }
 ]
