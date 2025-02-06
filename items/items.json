@@ -5574,5 +5574,25 @@
   {
     "name": "minecraft:firefly_bush",
     "id": 1390
+  },
+  {
+    "name": "minecraft:blue_egg",
+    "id": 1391
+  },
+  {
+    "name": "minecraft:brown_egg",
+    "id": 1392
+  },
+  {
+    "name": "minecraft:cactus_flower",
+    "id": 1393
+  },
+  {
+    "name": "minecraft:short_dry_grass",
+    "id": 1394
+  },
+  {
+    "name": "minecraft:tall_dry_grass",
+    "id": 1395
   }
 ]

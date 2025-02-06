@@ -1100,6 +1100,9 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:test_instance_block", \
 "minecraft:bush", \
 "minecraft:firefly_bush", \
+"minecraft:cactus_flower", \
+"minecraft:short_dry_grass", \
+"minecraft:tall_dry_grass", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2204,4 +2207,7 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:test_instance_block": 1098, \
 "minecraft:bush": 1099, \
 "minecraft:firefly_bush": 1100, \
+"minecraft:cactus_flower": 1101, \
+"minecraft:short_dry_grass": 1102, \
+"minecraft:tall_dry_grass": 1103, \
 }

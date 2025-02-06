@@ -4408,5 +4408,17 @@
   {
     "name": "minecraft:firefly_bush",
     "id": 1100
+  },
+  {
+    "name": "minecraft:cactus_flower",
+    "id": 1101
+  },
+  {
+    "name": "minecraft:short_dry_grass",
+    "id": 1102
+  },
+  {
+    "name": "minecraft:tall_dry_grass",
+    "id": 1103
   }
 ]
