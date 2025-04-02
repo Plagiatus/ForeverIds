@@ -343,8 +343,8 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:emerald_ore", \
 "minecraft:enchanting_table", \
 "minecraft:end_gateway", \
-"minecraft:end_portal", \
-"minecraft:end_portal_frame", \
+"", \
+"", \
 "minecraft:end_rod", \
 "minecraft:end_stone", \
 "minecraft:end_stone_brick_slab", \
@@ -1103,6 +1103,14 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:cactus_flower", \
 "minecraft:short_dry_grass", \
 "minecraft:tall_dry_grass", \
+"minecraft:dimension_control", \
+"minecraft:mine_crafter", \
+"minecraft:mine_revisitor", \
+"minecraft:mine_travelling_block", \
+"minecraft:mob_trophy", \
+"minecraft:shimmering_door", \
+"minecraft:sky", \
+"minecraft:trophy", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -1450,8 +1458,6 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:emerald_ore": 341, \
 "minecraft:enchanting_table": 342, \
 "minecraft:end_gateway": 343, \
-"minecraft:end_portal": 344, \
-"minecraft:end_portal_frame": 345, \
 "minecraft:end_rod": 346, \
 "minecraft:end_stone": 347, \
 "minecraft:end_stone_brick_slab": 348, \
@@ -2210,4 +2216,12 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:cactus_flower": 1101, \
 "minecraft:short_dry_grass": 1102, \
 "minecraft:tall_dry_grass": 1103, \
+"minecraft:dimension_control": 1104, \
+"minecraft:mine_crafter": 1105, \
+"minecraft:mine_revisitor": 1106, \
+"minecraft:mine_travelling_block": 1107, \
+"minecraft:mob_trophy": 1108, \
+"minecraft:shimmering_door": 1109, \
+"minecraft:sky": 1110, \
+"minecraft:trophy": 1111, \
 }

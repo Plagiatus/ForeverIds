@@ -413,7 +413,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:enchanted_golden_apple", \
 "minecraft:enchanting_table", \
 "minecraft:end_crystal", \
-"minecraft:end_portal_frame", \
+"", \
 "minecraft:end_rod", \
 "minecraft:end_stone", \
 "minecraft:end_stone_brick_slab", \
@@ -422,7 +422,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:end_stone_bricks", \
 "minecraft:ender_chest", \
 "minecraft:ender_dragon_spawn_egg", \
-"minecraft:ender_eye", \
+"", \
 "minecraft:ender_pearl", \
 "minecraft:enderman_spawn_egg", \
 "minecraft:endermite_spawn_egg", \
@@ -1395,6 +1395,24 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:cactus_flower", \
 "minecraft:short_dry_grass", \
 "minecraft:tall_dry_grass", \
+"minecraft:dimension_control", \
+"minecraft:exit_eye", \
+"minecraft:fire_wand", \
+"minecraft:grave_advancement", \
+"minecraft:mine", \
+"minecraft:mine_crafter", \
+"minecraft:mine_ingredient", \
+"minecraft:mine_revisitor", \
+"minecraft:mob_trophy", \
+"minecraft:music_disc_and_action", \
+"minecraft:shazboots", \
+"minecraft:shimmering_door", \
+"minecraft:shimmering_key", \
+"minecraft:sky", \
+"minecraft:sky_box", \
+"minecraft:teleportation_wand", \
+"minecraft:trophy", \
+"minecraft:wind_wand", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -1812,7 +1830,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:enchanted_golden_apple": 411, \
 "minecraft:enchanting_table": 412, \
 "minecraft:end_crystal": 413, \
-"minecraft:end_portal_frame": 414, \
 "minecraft:end_rod": 415, \
 "minecraft:end_stone": 416, \
 "minecraft:end_stone_brick_slab": 417, \
@@ -1821,7 +1838,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:end_stone_bricks": 420, \
 "minecraft:ender_chest": 421, \
 "minecraft:ender_dragon_spawn_egg": 422, \
-"minecraft:ender_eye": 423, \
 "minecraft:ender_pearl": 424, \
 "minecraft:enderman_spawn_egg": 425, \
 "minecraft:endermite_spawn_egg": 426, \
@@ -2794,4 +2810,22 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:cactus_flower": 1393, \
 "minecraft:short_dry_grass": 1394, \
 "minecraft:tall_dry_grass": 1395, \
+"minecraft:dimension_control": 1396, \
+"minecraft:exit_eye": 1397, \
+"minecraft:fire_wand": 1398, \
+"minecraft:grave_advancement": 1399, \
+"minecraft:mine": 1400, \
+"minecraft:mine_crafter": 1401, \
+"minecraft:mine_ingredient": 1402, \
+"minecraft:mine_revisitor": 1403, \
+"minecraft:mob_trophy": 1404, \
+"minecraft:music_disc_and_action": 1405, \
+"minecraft:shazboots": 1406, \
+"minecraft:shimmering_door": 1407, \
+"minecraft:shimmering_key": 1408, \
+"minecraft:sky": 1409, \
+"minecraft:sky_box": 1410, \
+"minecraft:teleportation_wand": 1411, \
+"minecraft:trophy": 1412, \
+"minecraft:wind_wand": 1413, \
 }

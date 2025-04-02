@@ -1376,12 +1376,24 @@
     "id": 343
   },
   {
-    "name": "minecraft:end_portal",
-    "id": 344
+    "name": "",
+    "id": 344,
+    "previous": [
+      {
+        "name": "minecraft:end_portal",
+        "removed_in": "25w14craftmine"
+      }
+    ]
   },
   {
-    "name": "minecraft:end_portal_frame",
-    "id": 345
+    "name": "",
+    "id": 345,
+    "previous": [
+      {
+        "name": "minecraft:end_portal_frame",
+        "removed_in": "25w14craftmine"
+      }
+    ]
   },
   {
     "name": "minecraft:end_rod",
@@ -4420,5 +4432,37 @@
   {
     "name": "minecraft:tall_dry_grass",
     "id": 1103
+  },
+  {
+    "name": "minecraft:dimension_control",
+    "id": 1104
+  },
+  {
+    "name": "minecraft:mine_crafter",
+    "id": 1105
+  },
+  {
+    "name": "minecraft:mine_revisitor",
+    "id": 1106
+  },
+  {
+    "name": "minecraft:mine_travelling_block",
+    "id": 1107
+  },
+  {
+    "name": "minecraft:mob_trophy",
+    "id": 1108
+  },
+  {
+    "name": "minecraft:shimmering_door",
+    "id": 1109
+  },
+  {
+    "name": "minecraft:sky",
+    "id": 1110
+  },
+  {
+    "name": "minecraft:trophy",
+    "id": 1111
   }
 ]
