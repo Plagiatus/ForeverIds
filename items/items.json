@@ -5594,5 +5594,77 @@
   {
     "name": "minecraft:tall_dry_grass",
     "id": 1395
+  },
+  {
+    "name": "minecraft:black_harness",
+    "id": 1396
+  },
+  {
+    "name": "minecraft:blue_harness",
+    "id": 1397
+  },
+  {
+    "name": "minecraft:brown_harness",
+    "id": 1398
+  },
+  {
+    "name": "minecraft:cyan_harness",
+    "id": 1399
+  },
+  {
+    "name": "minecraft:dried_ghast",
+    "id": 1400
+  },
+  {
+    "name": "minecraft:gray_harness",
+    "id": 1401
+  },
+  {
+    "name": "minecraft:green_harness",
+    "id": 1402
+  },
+  {
+    "name": "minecraft:happy_ghast_spawn_egg",
+    "id": 1403
+  },
+  {
+    "name": "minecraft:light_blue_harness",
+    "id": 1404
+  },
+  {
+    "name": "minecraft:light_gray_harness",
+    "id": 1405
+  },
+  {
+    "name": "minecraft:lime_harness",
+    "id": 1406
+  },
+  {
+    "name": "minecraft:magenta_harness",
+    "id": 1407
+  },
+  {
+    "name": "minecraft:orange_harness",
+    "id": 1408
+  },
+  {
+    "name": "minecraft:pink_harness",
+    "id": 1409
+  },
+  {
+    "name": "minecraft:purple_harness",
+    "id": 1410
+  },
+  {
+    "name": "minecraft:red_harness",
+    "id": 1411
+  },
+  {
+    "name": "minecraft:white_harness",
+    "id": 1412
+  },
+  {
+    "name": "minecraft:yellow_harness",
+    "id": 1413
   }
 ]

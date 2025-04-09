@@ -1103,6 +1103,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:cactus_flower", \
 "minecraft:short_dry_grass", \
 "minecraft:tall_dry_grass", \
+"minecraft:dried_ghast", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2210,4 +2211,5 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:cactus_flower": 1101, \
 "minecraft:short_dry_grass": 1102, \
 "minecraft:tall_dry_grass": 1103, \
+"minecraft:dried_ghast": 1104, \
 }

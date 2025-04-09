@@ -4420,5 +4420,9 @@
   {
     "name": "minecraft:tall_dry_grass",
     "id": 1103
+  },
+  {
+    "name": "minecraft:dried_ghast",
+    "id": 1104
   }
 ]

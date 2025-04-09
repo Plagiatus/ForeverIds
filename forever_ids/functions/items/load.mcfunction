@@ -1395,6 +1395,24 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:cactus_flower", \
 "minecraft:short_dry_grass", \
 "minecraft:tall_dry_grass", \
+"minecraft:black_harness", \
+"minecraft:blue_harness", \
+"minecraft:brown_harness", \
+"minecraft:cyan_harness", \
+"minecraft:dried_ghast", \
+"minecraft:gray_harness", \
+"minecraft:green_harness", \
+"minecraft:happy_ghast_spawn_egg", \
+"minecraft:light_blue_harness", \
+"minecraft:light_gray_harness", \
+"minecraft:lime_harness", \
+"minecraft:magenta_harness", \
+"minecraft:orange_harness", \
+"minecraft:pink_harness", \
+"minecraft:purple_harness", \
+"minecraft:red_harness", \
+"minecraft:white_harness", \
+"minecraft:yellow_harness", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2794,4 +2812,22 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:cactus_flower": 1393, \
 "minecraft:short_dry_grass": 1394, \
 "minecraft:tall_dry_grass": 1395, \
+"minecraft:black_harness": 1396, \
+"minecraft:blue_harness": 1397, \
+"minecraft:brown_harness": 1398, \
+"minecraft:cyan_harness": 1399, \
+"minecraft:dried_ghast": 1400, \
+"minecraft:gray_harness": 1401, \
+"minecraft:green_harness": 1402, \
+"minecraft:happy_ghast_spawn_egg": 1403, \
+"minecraft:light_blue_harness": 1404, \
+"minecraft:light_gray_harness": 1405, \
+"minecraft:lime_harness": 1406, \
+"minecraft:magenta_harness": 1407, \
+"minecraft:orange_harness": 1408, \
+"minecraft:pink_harness": 1409, \
+"minecraft:purple_harness": 1410, \
+"minecraft:red_harness": 1411, \
+"minecraft:white_harness": 1412, \
+"minecraft:yellow_harness": 1413, \
 }
