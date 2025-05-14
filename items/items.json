@@ -5666,5 +5666,9 @@
   {
     "name": "minecraft:yellow_harness",
     "id": 1413
+  },
+  {
+    "name": "minecraft:music_disc_tears",
+    "id": 1414
   }
 ]

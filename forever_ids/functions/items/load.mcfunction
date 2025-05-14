@@ -1413,6 +1413,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:red_harness", \
 "minecraft:white_harness", \
 "minecraft:yellow_harness", \
+"minecraft:music_disc_tears", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2830,4 +2831,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:red_harness": 1411, \
 "minecraft:white_harness": 1412, \
 "minecraft:yellow_harness": 1413, \
+"minecraft:music_disc_tears": 1414, \
 }
