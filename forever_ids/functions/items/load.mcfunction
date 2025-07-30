@@ -1415,6 +1415,53 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:yellow_harness", \
 "minecraft:music_disc_tears", \
 "minecraft:music_disc_lava_chicken", \
+"minecraft:acacia_shelf", \
+"minecraft:bamboo_shelf", \
+"minecraft:birch_shelf", \
+"minecraft:cherry_shelf", \
+"minecraft:copper_axe", \
+"minecraft:copper_boots", \
+"minecraft:copper_chest", \
+"minecraft:copper_chestplate", \
+"minecraft:copper_golem_spawn_egg", \
+"minecraft:copper_golem_statue", \
+"minecraft:copper_helmet", \
+"minecraft:copper_hoe", \
+"minecraft:copper_horse_armor", \
+"minecraft:copper_leggings", \
+"minecraft:copper_nugget", \
+"minecraft:copper_pickaxe", \
+"minecraft:copper_shovel", \
+"minecraft:copper_sword", \
+"minecraft:crimson_shelf", \
+"minecraft:dark_oak_shelf", \
+"minecraft:exposed_copper_chest", \
+"minecraft:exposed_copper_golem_statue", \
+"minecraft:exposed_lightning_rod", \
+"minecraft:jungle_shelf", \
+"minecraft:mangrove_shelf", \
+"minecraft:oak_shelf", \
+"minecraft:oxidized_copper_chest", \
+"minecraft:oxidized_copper_golem_statue", \
+"minecraft:oxidized_lightning_rod", \
+"minecraft:pale_oak_shelf", \
+"minecraft:spruce_shelf", \
+"minecraft:warped_shelf", \
+"minecraft:waxed_copper_chest", \
+"minecraft:waxed_copper_golem_statue", \
+"minecraft:waxed_exposed_copper_chest", \
+"minecraft:waxed_exposed_copper_golem_statue", \
+"minecraft:waxed_exposed_lightning_rod", \
+"minecraft:waxed_lightning_rod", \
+"minecraft:waxed_oxidized_copper_chest", \
+"minecraft:waxed_oxidized_copper_golem_statue", \
+"minecraft:waxed_oxidized_lightning_rod", \
+"minecraft:waxed_weathered_copper_chest", \
+"minecraft:waxed_weathered_copper_golem_statue", \
+"minecraft:waxed_weathered_lightning_rod", \
+"minecraft:weathered_copper_chest", \
+"minecraft:weathered_copper_golem_statue", \
+"minecraft:weathered_lightning_rod", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2834,4 +2881,51 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:yellow_harness": 1413, \
 "minecraft:music_disc_tears": 1414, \
 "minecraft:music_disc_lava_chicken": 1415, \
+"minecraft:acacia_shelf": 1416, \
+"minecraft:bamboo_shelf": 1417, \
+"minecraft:birch_shelf": 1418, \
+"minecraft:cherry_shelf": 1419, \
+"minecraft:copper_axe": 1420, \
+"minecraft:copper_boots": 1421, \
+"minecraft:copper_chest": 1422, \
+"minecraft:copper_chestplate": 1423, \
+"minecraft:copper_golem_spawn_egg": 1424, \
+"minecraft:copper_golem_statue": 1425, \
+"minecraft:copper_helmet": 1426, \
+"minecraft:copper_hoe": 1427, \
+"minecraft:copper_horse_armor": 1428, \
+"minecraft:copper_leggings": 1429, \
+"minecraft:copper_nugget": 1430, \
+"minecraft:copper_pickaxe": 1431, \
+"minecraft:copper_shovel": 1432, \
+"minecraft:copper_sword": 1433, \
+"minecraft:crimson_shelf": 1434, \
+"minecraft:dark_oak_shelf": 1435, \
+"minecraft:exposed_copper_chest": 1436, \
+"minecraft:exposed_copper_golem_statue": 1437, \
+"minecraft:exposed_lightning_rod": 1438, \
+"minecraft:jungle_shelf": 1439, \
+"minecraft:mangrove_shelf": 1440, \
+"minecraft:oak_shelf": 1441, \
+"minecraft:oxidized_copper_chest": 1442, \
+"minecraft:oxidized_copper_golem_statue": 1443, \
+"minecraft:oxidized_lightning_rod": 1444, \
+"minecraft:pale_oak_shelf": 1445, \
+"minecraft:spruce_shelf": 1446, \
+"minecraft:warped_shelf": 1447, \
+"minecraft:waxed_copper_chest": 1448, \
+"minecraft:waxed_copper_golem_statue": 1449, \
+"minecraft:waxed_exposed_copper_chest": 1450, \
+"minecraft:waxed_exposed_copper_golem_statue": 1451, \
+"minecraft:waxed_exposed_lightning_rod": 1452, \
+"minecraft:waxed_lightning_rod": 1453, \
+"minecraft:waxed_oxidized_copper_chest": 1454, \
+"minecraft:waxed_oxidized_copper_golem_statue": 1455, \
+"minecraft:waxed_oxidized_lightning_rod": 1456, \
+"minecraft:waxed_weathered_copper_chest": 1457, \
+"minecraft:waxed_weathered_copper_golem_statue": 1458, \
+"minecraft:waxed_weathered_lightning_rod": 1459, \
+"minecraft:weathered_copper_chest": 1460, \
+"minecraft:weathered_copper_golem_statue": 1461, \
+"minecraft:weathered_lightning_rod": 1462, \
 }

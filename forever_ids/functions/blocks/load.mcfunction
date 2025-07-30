@@ -1104,6 +1104,41 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:short_dry_grass", \
 "minecraft:tall_dry_grass", \
 "minecraft:dried_ghast", \
+"minecraft:acacia_shelf", \
+"minecraft:bamboo_shelf", \
+"minecraft:birch_shelf", \
+"minecraft:cherry_shelf", \
+"minecraft:copper_chest", \
+"minecraft:copper_golem_statue", \
+"minecraft:crimson_shelf", \
+"minecraft:dark_oak_shelf", \
+"minecraft:exposed_copper_chest", \
+"minecraft:exposed_copper_golem_statue", \
+"minecraft:exposed_lightning_rod", \
+"minecraft:jungle_shelf", \
+"minecraft:mangrove_shelf", \
+"minecraft:oak_shelf", \
+"minecraft:oxidized_copper_chest", \
+"minecraft:oxidized_copper_golem_statue", \
+"minecraft:oxidized_lightning_rod", \
+"minecraft:pale_oak_shelf", \
+"minecraft:spruce_shelf", \
+"minecraft:warped_shelf", \
+"minecraft:waxed_copper_chest", \
+"minecraft:waxed_copper_golem_statue", \
+"minecraft:waxed_exposed_copper_chest", \
+"minecraft:waxed_exposed_copper_golem_statue", \
+"minecraft:waxed_exposed_lightning_rod", \
+"minecraft:waxed_lightning_rod", \
+"minecraft:waxed_oxidized_copper_chest", \
+"minecraft:waxed_oxidized_copper_golem_statue", \
+"minecraft:waxed_oxidized_lightning_rod", \
+"minecraft:waxed_weathered_copper_chest", \
+"minecraft:waxed_weathered_copper_golem_statue", \
+"minecraft:waxed_weathered_lightning_rod", \
+"minecraft:weathered_copper_chest", \
+"minecraft:weathered_copper_golem_statue", \
+"minecraft:weathered_lightning_rod", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2212,4 +2247,39 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:short_dry_grass": 1102, \
 "minecraft:tall_dry_grass": 1103, \
 "minecraft:dried_ghast": 1104, \
+"minecraft:acacia_shelf": 1105, \
+"minecraft:bamboo_shelf": 1106, \
+"minecraft:birch_shelf": 1107, \
+"minecraft:cherry_shelf": 1108, \
+"minecraft:copper_chest": 1109, \
+"minecraft:copper_golem_statue": 1110, \
+"minecraft:crimson_shelf": 1111, \
+"minecraft:dark_oak_shelf": 1112, \
+"minecraft:exposed_copper_chest": 1113, \
+"minecraft:exposed_copper_golem_statue": 1114, \
+"minecraft:exposed_lightning_rod": 1115, \
+"minecraft:jungle_shelf": 1116, \
+"minecraft:mangrove_shelf": 1117, \
+"minecraft:oak_shelf": 1118, \
+"minecraft:oxidized_copper_chest": 1119, \
+"minecraft:oxidized_copper_golem_statue": 1120, \
+"minecraft:oxidized_lightning_rod": 1121, \
+"minecraft:pale_oak_shelf": 1122, \
+"minecraft:spruce_shelf": 1123, \
+"minecraft:warped_shelf": 1124, \
+"minecraft:waxed_copper_chest": 1125, \
+"minecraft:waxed_copper_golem_statue": 1126, \
+"minecraft:waxed_exposed_copper_chest": 1127, \
+"minecraft:waxed_exposed_copper_golem_statue": 1128, \
+"minecraft:waxed_exposed_lightning_rod": 1129, \
+"minecraft:waxed_lightning_rod": 1130, \
+"minecraft:waxed_oxidized_copper_chest": 1131, \
+"minecraft:waxed_oxidized_copper_golem_statue": 1132, \
+"minecraft:waxed_oxidized_lightning_rod": 1133, \
+"minecraft:waxed_weathered_copper_chest": 1134, \
+"minecraft:waxed_weathered_copper_golem_statue": 1135, \
+"minecraft:waxed_weathered_lightning_rod": 1136, \
+"minecraft:weathered_copper_chest": 1137, \
+"minecraft:weathered_copper_golem_statue": 1138, \
+"minecraft:weathered_lightning_rod": 1139, \
 }

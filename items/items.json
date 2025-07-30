@@ -5674,5 +5674,193 @@
   {
     "name": "minecraft:music_disc_lava_chicken",
     "id": 1415
+  },
+  {
+    "name": "minecraft:acacia_shelf",
+    "id": 1416
+  },
+  {
+    "name": "minecraft:bamboo_shelf",
+    "id": 1417
+  },
+  {
+    "name": "minecraft:birch_shelf",
+    "id": 1418
+  },
+  {
+    "name": "minecraft:cherry_shelf",
+    "id": 1419
+  },
+  {
+    "name": "minecraft:copper_axe",
+    "id": 1420
+  },
+  {
+    "name": "minecraft:copper_boots",
+    "id": 1421
+  },
+  {
+    "name": "minecraft:copper_chest",
+    "id": 1422
+  },
+  {
+    "name": "minecraft:copper_chestplate",
+    "id": 1423
+  },
+  {
+    "name": "minecraft:copper_golem_spawn_egg",
+    "id": 1424
+  },
+  {
+    "name": "minecraft:copper_golem_statue",
+    "id": 1425
+  },
+  {
+    "name": "minecraft:copper_helmet",
+    "id": 1426
+  },
+  {
+    "name": "minecraft:copper_hoe",
+    "id": 1427
+  },
+  {
+    "name": "minecraft:copper_horse_armor",
+    "id": 1428
+  },
+  {
+    "name": "minecraft:copper_leggings",
+    "id": 1429
+  },
+  {
+    "name": "minecraft:copper_nugget",
+    "id": 1430
+  },
+  {
+    "name": "minecraft:copper_pickaxe",
+    "id": 1431
+  },
+  {
+    "name": "minecraft:copper_shovel",
+    "id": 1432
+  },
+  {
+    "name": "minecraft:copper_sword",
+    "id": 1433
+  },
+  {
+    "name": "minecraft:crimson_shelf",
+    "id": 1434
+  },
+  {
+    "name": "minecraft:dark_oak_shelf",
+    "id": 1435
+  },
+  {
+    "name": "minecraft:exposed_copper_chest",
+    "id": 1436
+  },
+  {
+    "name": "minecraft:exposed_copper_golem_statue",
+    "id": 1437
+  },
+  {
+    "name": "minecraft:exposed_lightning_rod",
+    "id": 1438
+  },
+  {
+    "name": "minecraft:jungle_shelf",
+    "id": 1439
+  },
+  {
+    "name": "minecraft:mangrove_shelf",
+    "id": 1440
+  },
+  {
+    "name": "minecraft:oak_shelf",
+    "id": 1441
+  },
+  {
+    "name": "minecraft:oxidized_copper_chest",
+    "id": 1442
+  },
+  {
+    "name": "minecraft:oxidized_copper_golem_statue",
+    "id": 1443
+  },
+  {
+    "name": "minecraft:oxidized_lightning_rod",
+    "id": 1444
+  },
+  {
+    "name": "minecraft:pale_oak_shelf",
+    "id": 1445
+  },
+  {
+    "name": "minecraft:spruce_shelf",
+    "id": 1446
+  },
+  {
+    "name": "minecraft:warped_shelf",
+    "id": 1447
+  },
+  {
+    "name": "minecraft:waxed_copper_chest",
+    "id": 1448
+  },
+  {
+    "name": "minecraft:waxed_copper_golem_statue",
+    "id": 1449
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_chest",
+    "id": 1450
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_golem_statue",
+    "id": 1451
+  },
+  {
+    "name": "minecraft:waxed_exposed_lightning_rod",
+    "id": 1452
+  },
+  {
+    "name": "minecraft:waxed_lightning_rod",
+    "id": 1453
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_chest",
+    "id": 1454
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_golem_statue",
+    "id": 1455
+  },
+  {
+    "name": "minecraft:waxed_oxidized_lightning_rod",
+    "id": 1456
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_chest",
+    "id": 1457
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_golem_statue",
+    "id": 1458
+  },
+  {
+    "name": "minecraft:waxed_weathered_lightning_rod",
+    "id": 1459
+  },
+  {
+    "name": "minecraft:weathered_copper_chest",
+    "id": 1460
+  },
+  {
+    "name": "minecraft:weathered_copper_golem_statue",
+    "id": 1461
+  },
+  {
+    "name": "minecraft:weathered_lightning_rod",
+    "id": 1462
   }
 ]
