@@ -1462,6 +1462,31 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:weathered_copper_chest", \
 "minecraft:weathered_copper_golem_statue", \
 "minecraft:weathered_lightning_rod", \
+"minecraft:copper_bars", \
+"minecraft:copper_chain", \
+"minecraft:copper_lantern", \
+"minecraft:copper_torch", \
+"minecraft:exposed_copper_bars", \
+"minecraft:exposed_copper_chain", \
+"minecraft:exposed_copper_lantern", \
+"minecraft:oxidized_copper_bars", \
+"minecraft:oxidized_copper_chain", \
+"minecraft:oxidized_copper_lantern", \
+"minecraft:waxed_copper_bars", \
+"minecraft:waxed_copper_chain", \
+"minecraft:waxed_copper_lantern", \
+"minecraft:waxed_exposed_copper_bars", \
+"minecraft:waxed_exposed_copper_chain", \
+"minecraft:waxed_exposed_copper_lantern", \
+"minecraft:waxed_oxidized_copper_bars", \
+"minecraft:waxed_oxidized_copper_chain", \
+"minecraft:waxed_oxidized_copper_lantern", \
+"minecraft:waxed_weathered_copper_bars", \
+"minecraft:waxed_weathered_copper_chain", \
+"minecraft:waxed_weathered_copper_lantern", \
+"minecraft:weathered_copper_bars", \
+"minecraft:weathered_copper_chain", \
+"minecraft:weathered_copper_lantern", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2928,4 +2953,29 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:weathered_copper_chest": 1460, \
 "minecraft:weathered_copper_golem_statue": 1461, \
 "minecraft:weathered_lightning_rod": 1462, \
+"minecraft:copper_bars": 1463, \
+"minecraft:copper_chain": 1464, \
+"minecraft:copper_lantern": 1465, \
+"minecraft:copper_torch": 1466, \
+"minecraft:exposed_copper_bars": 1467, \
+"minecraft:exposed_copper_chain": 1468, \
+"minecraft:exposed_copper_lantern": 1469, \
+"minecraft:oxidized_copper_bars": 1470, \
+"minecraft:oxidized_copper_chain": 1471, \
+"minecraft:oxidized_copper_lantern": 1472, \
+"minecraft:waxed_copper_bars": 1473, \
+"minecraft:waxed_copper_chain": 1474, \
+"minecraft:waxed_copper_lantern": 1475, \
+"minecraft:waxed_exposed_copper_bars": 1476, \
+"minecraft:waxed_exposed_copper_chain": 1477, \
+"minecraft:waxed_exposed_copper_lantern": 1478, \
+"minecraft:waxed_oxidized_copper_bars": 1479, \
+"minecraft:waxed_oxidized_copper_chain": 1480, \
+"minecraft:waxed_oxidized_copper_lantern": 1481, \
+"minecraft:waxed_weathered_copper_bars": 1482, \
+"minecraft:waxed_weathered_copper_chain": 1483, \
+"minecraft:waxed_weathered_copper_lantern": 1484, \
+"minecraft:weathered_copper_bars": 1485, \
+"minecraft:weathered_copper_chain": 1486, \
+"minecraft:weathered_copper_lantern": 1487, \
 }

@@ -4564,5 +4564,109 @@
   {
     "name": "minecraft:weathered_lightning_rod",
     "id": 1139
+  },
+  {
+    "name": "minecraft:copper_bars",
+    "id": 1140
+  },
+  {
+    "name": "minecraft:copper_chain",
+    "id": 1141
+  },
+  {
+    "name": "minecraft:copper_lantern",
+    "id": 1142
+  },
+  {
+    "name": "minecraft:copper_torch",
+    "id": 1143
+  },
+  {
+    "name": "minecraft:copper_wall_torch",
+    "id": 1144
+  },
+  {
+    "name": "minecraft:exposed_copper_bars",
+    "id": 1145
+  },
+  {
+    "name": "minecraft:exposed_copper_chain",
+    "id": 1146
+  },
+  {
+    "name": "minecraft:exposed_copper_lantern",
+    "id": 1147
+  },
+  {
+    "name": "minecraft:oxidized_copper_bars",
+    "id": 1148
+  },
+  {
+    "name": "minecraft:oxidized_copper_chain",
+    "id": 1149
+  },
+  {
+    "name": "minecraft:oxidized_copper_lantern",
+    "id": 1150
+  },
+  {
+    "name": "minecraft:waxed_copper_bars",
+    "id": 1151
+  },
+  {
+    "name": "minecraft:waxed_copper_chain",
+    "id": 1152
+  },
+  {
+    "name": "minecraft:waxed_copper_lantern",
+    "id": 1153
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_bars",
+    "id": 1154
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_chain",
+    "id": 1155
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_lantern",
+    "id": 1156
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_bars",
+    "id": 1157
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_chain",
+    "id": 1158
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_lantern",
+    "id": 1159
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_bars",
+    "id": 1160
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_chain",
+    "id": 1161
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_lantern",
+    "id": 1162
+  },
+  {
+    "name": "minecraft:weathered_copper_bars",
+    "id": 1163
+  },
+  {
+    "name": "minecraft:weathered_copper_chain",
+    "id": 1164
+  },
+  {
+    "name": "minecraft:weathered_copper_lantern",
+    "id": 1165
   }
 ]

@@ -5862,5 +5862,105 @@
   {
     "name": "minecraft:weathered_lightning_rod",
     "id": 1462
+  },
+  {
+    "name": "minecraft:copper_bars",
+    "id": 1463
+  },
+  {
+    "name": "minecraft:copper_chain",
+    "id": 1464
+  },
+  {
+    "name": "minecraft:copper_lantern",
+    "id": 1465
+  },
+  {
+    "name": "minecraft:copper_torch",
+    "id": 1466
+  },
+  {
+    "name": "minecraft:exposed_copper_bars",
+    "id": 1467
+  },
+  {
+    "name": "minecraft:exposed_copper_chain",
+    "id": 1468
+  },
+  {
+    "name": "minecraft:exposed_copper_lantern",
+    "id": 1469
+  },
+  {
+    "name": "minecraft:oxidized_copper_bars",
+    "id": 1470
+  },
+  {
+    "name": "minecraft:oxidized_copper_chain",
+    "id": 1471
+  },
+  {
+    "name": "minecraft:oxidized_copper_lantern",
+    "id": 1472
+  },
+  {
+    "name": "minecraft:waxed_copper_bars",
+    "id": 1473
+  },
+  {
+    "name": "minecraft:waxed_copper_chain",
+    "id": 1474
+  },
+  {
+    "name": "minecraft:waxed_copper_lantern",
+    "id": 1475
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_bars",
+    "id": 1476
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_chain",
+    "id": 1477
+  },
+  {
+    "name": "minecraft:waxed_exposed_copper_lantern",
+    "id": 1478
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_bars",
+    "id": 1479
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_chain",
+    "id": 1480
+  },
+  {
+    "name": "minecraft:waxed_oxidized_copper_lantern",
+    "id": 1481
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_bars",
+    "id": 1482
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_chain",
+    "id": 1483
+  },
+  {
+    "name": "minecraft:waxed_weathered_copper_lantern",
+    "id": 1484
+  },
+  {
+    "name": "minecraft:weathered_copper_bars",
+    "id": 1485
+  },
+  {
+    "name": "minecraft:weathered_copper_chain",
+    "id": 1486
+  },
+  {
+    "name": "minecraft:weathered_copper_lantern",
+    "id": 1487
   }
 ]
