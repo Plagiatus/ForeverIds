@@ -648,8 +648,14 @@
     "id": 161
   },
   {
-    "name": "minecraft:chain",
-    "id": 162
+    "name": "",
+    "id": 162,
+    "previous": [
+      {
+        "name": "minecraft:chain",
+        "removed_in": "25w35a"
+      }
+    ]
   },
   {
     "name": "minecraft:chain_command_block",
@@ -4668,5 +4674,9 @@
   {
     "name": "minecraft:weathered_copper_lantern",
     "id": 1165
+  },
+  {
+    "name": "minecraft:iron_chain",
+    "id": 1166
   }
 ]
