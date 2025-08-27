@@ -648,7 +648,7 @@
     "id": 161
   },
   {
-    "name": "",
+    "name": "minecraft:iron_chain",
     "id": 162,
     "previous": [
       {
@@ -4674,9 +4674,5 @@
   {
     "name": "minecraft:weathered_copper_lantern",
     "id": 1165
-  },
-  {
-    "name": "minecraft:iron_chain",
-    "id": 1166
   }
 ]

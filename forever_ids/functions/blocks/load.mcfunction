@@ -161,7 +161,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:cave_air", \
 "minecraft:cave_vines", \
 "minecraft:cave_vines_plant", \
-"", \
+"minecraft:iron_chain", \
 "minecraft:chain_command_block", \
 "minecraft:cherry_button", \
 "minecraft:cherry_door", \
@@ -1165,7 +1165,6 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:weathered_copper_bars", \
 "minecraft:weathered_copper_chain", \
 "minecraft:weathered_copper_lantern", \
-"minecraft:iron_chain", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -1331,6 +1330,7 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:cave_air": 159, \
 "minecraft:cave_vines": 160, \
 "minecraft:cave_vines_plant": 161, \
+"minecraft:iron_chain": 162, \
 "minecraft:chain_command_block": 163, \
 "minecraft:cherry_button": 164, \
 "minecraft:cherry_door": 165, \
@@ -2334,5 +2334,4 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:weathered_copper_bars": 1163, \
 "minecraft:weathered_copper_chain": 1164, \
 "minecraft:weathered_copper_lantern": 1165, \
-"minecraft:iron_chain": 1166, \
 }
