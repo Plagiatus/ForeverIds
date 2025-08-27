@@ -161,7 +161,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:cave_air", \
 "minecraft:cave_vines", \
 "minecraft:cave_vines_plant", \
-"minecraft:chain", \
+"minecraft:iron_chain", \
 "minecraft:chain_command_block", \
 "minecraft:cherry_button", \
 "minecraft:cherry_door", \
@@ -1330,7 +1330,7 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:cave_air": 159, \
 "minecraft:cave_vines": 160, \
 "minecraft:cave_vines_plant": 161, \
-"minecraft:chain": 162, \
+"minecraft:iron_chain": 162, \
 "minecraft:chain_command_block": 163, \
 "minecraft:cherry_button": 164, \
 "minecraft:cherry_door": 165, \

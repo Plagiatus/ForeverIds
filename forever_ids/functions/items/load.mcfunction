@@ -183,7 +183,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:cat_spawn_egg", \
 "minecraft:cauldron", \
 "minecraft:cave_spider_spawn_egg", \
-"minecraft:chain", \
+"minecraft:iron_chain", \
 "minecraft:chain_command_block", \
 "minecraft:chainmail_boots", \
 "minecraft:chainmail_chestplate", \
@@ -1674,7 +1674,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:cat_spawn_egg": 181, \
 "minecraft:cauldron": 182, \
 "minecraft:cave_spider_spawn_egg": 183, \
-"minecraft:chain": 184, \
+"minecraft:iron_chain": 184, \
 "minecraft:chain_command_block": 185, \
 "minecraft:chainmail_boots": 186, \
 "minecraft:chainmail_chestplate": 187, \
