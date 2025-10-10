@@ -1487,6 +1487,20 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:weathered_copper_bars", \
 "minecraft:weathered_copper_chain", \
 "minecraft:weathered_copper_lantern", \
+"minecraft:copper_nautilus_armor", \
+"minecraft:copper_spear", \
+"minecraft:diamond_nautilus_armor", \
+"minecraft:diamond_spear", \
+"minecraft:golden_nautilus_armor", \
+"minecraft:golden_spear", \
+"minecraft:iron_nautilus_armor", \
+"minecraft:iron_spear", \
+"minecraft:nautilus_spawn_egg", \
+"minecraft:netherite_nautilus_armor", \
+"minecraft:netherite_spear", \
+"minecraft:stone_spear", \
+"minecraft:wooden_spear", \
+"minecraft:zombie_nautilus_spawn_egg", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -2978,4 +2992,18 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:weathered_copper_bars": 1485, \
 "minecraft:weathered_copper_chain": 1486, \
 "minecraft:weathered_copper_lantern": 1487, \
+"minecraft:copper_nautilus_armor": 1488, \
+"minecraft:copper_spear": 1489, \
+"minecraft:diamond_nautilus_armor": 1490, \
+"minecraft:diamond_spear": 1491, \
+"minecraft:golden_nautilus_armor": 1492, \
+"minecraft:golden_spear": 1493, \
+"minecraft:iron_nautilus_armor": 1494, \
+"minecraft:iron_spear": 1495, \
+"minecraft:nautilus_spawn_egg": 1496, \
+"minecraft:netherite_nautilus_armor": 1497, \
+"minecraft:netherite_spear": 1498, \
+"minecraft:stone_spear": 1499, \
+"minecraft:wooden_spear": 1500, \
+"minecraft:zombie_nautilus_spawn_egg": 1501, \
 }

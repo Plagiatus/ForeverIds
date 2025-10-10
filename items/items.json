@@ -5968,5 +5968,61 @@
   {
     "name": "minecraft:weathered_copper_lantern",
     "id": 1487
+  },
+  {
+    "name": "minecraft:copper_nautilus_armor",
+    "id": 1488
+  },
+  {
+    "name": "minecraft:copper_spear",
+    "id": 1489
+  },
+  {
+    "name": "minecraft:diamond_nautilus_armor",
+    "id": 1490
+  },
+  {
+    "name": "minecraft:diamond_spear",
+    "id": 1491
+  },
+  {
+    "name": "minecraft:golden_nautilus_armor",
+    "id": 1492
+  },
+  {
+    "name": "minecraft:golden_spear",
+    "id": 1493
+  },
+  {
+    "name": "minecraft:iron_nautilus_armor",
+    "id": 1494
+  },
+  {
+    "name": "minecraft:iron_spear",
+    "id": 1495
+  },
+  {
+    "name": "minecraft:nautilus_spawn_egg",
+    "id": 1496
+  },
+  {
+    "name": "minecraft:netherite_nautilus_armor",
+    "id": 1497
+  },
+  {
+    "name": "minecraft:netherite_spear",
+    "id": 1498
+  },
+  {
+    "name": "minecraft:stone_spear",
+    "id": 1499
+  },
+  {
+    "name": "minecraft:wooden_spear",
+    "id": 1500
+  },
+  {
+    "name": "minecraft:zombie_nautilus_spawn_egg",
+    "id": 1501
   }
 ]
