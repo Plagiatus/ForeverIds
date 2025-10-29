@@ -6024,5 +6024,13 @@
   {
     "name": "minecraft:zombie_nautilus_spawn_egg",
     "id": 1501
+  },
+  {
+    "name": "minecraft:camel_husk_spawn_egg",
+    "id": 1502
+  },
+  {
+    "name": "minecraft:parched_spawn_egg",
+    "id": 1503
   }
 ]

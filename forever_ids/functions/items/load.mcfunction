@@ -1501,6 +1501,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:stone_spear", \
 "minecraft:wooden_spear", \
 "minecraft:zombie_nautilus_spawn_egg", \
+"minecraft:camel_husk_spawn_egg", \
+"minecraft:parched_spawn_egg", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3006,4 +3008,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:stone_spear": 1499, \
 "minecraft:wooden_spear": 1500, \
 "minecraft:zombie_nautilus_spawn_egg": 1501, \
+"minecraft:camel_husk_spawn_egg": 1502, \
+"minecraft:parched_spawn_egg": 1503, \
 }
