@@ -1503,6 +1503,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:zombie_nautilus_spawn_egg", \
 "minecraft:camel_husk_spawn_egg", \
 "minecraft:parched_spawn_egg", \
+"minecraft:netherite_horse_armor", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3010,4 +3011,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:zombie_nautilus_spawn_egg": 1501, \
 "minecraft:camel_husk_spawn_egg": 1502, \
 "minecraft:parched_spawn_egg": 1503, \
+"minecraft:netherite_horse_armor": 1504, \
 }

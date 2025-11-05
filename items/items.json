@@ -6032,5 +6032,9 @@
   {
     "name": "minecraft:parched_spawn_egg",
     "id": 1503
+  },
+  {
+    "name": "minecraft:netherite_horse_armor",
+    "id": 1504
   }
 ]
