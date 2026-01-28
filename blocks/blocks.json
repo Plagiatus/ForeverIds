@@ -4674,5 +4674,13 @@
   {
     "name": "minecraft:weathered_copper_lantern",
     "id": 1165
+  },
+  {
+    "name": "minecraft:golden_dandelion",
+    "id": 1166
+  },
+  {
+    "name": "minecraft:potted_golden_dandelion",
+    "id": 1167
   }
 ]

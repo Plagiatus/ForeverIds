@@ -6036,5 +6036,9 @@
   {
     "name": "minecraft:netherite_horse_armor",
     "id": 1504
+  },
+  {
+    "name": "minecraft:golden_dandelion",
+    "id": 1505
   }
 ]

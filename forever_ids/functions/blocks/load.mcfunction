@@ -1165,6 +1165,8 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:weathered_copper_bars", \
 "minecraft:weathered_copper_chain", \
 "minecraft:weathered_copper_lantern", \
+"minecraft:golden_dandelion", \
+"minecraft:potted_golden_dandelion", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2334,4 +2336,6 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:weathered_copper_bars": 1163, \
 "minecraft:weathered_copper_chain": 1164, \
 "minecraft:weathered_copper_lantern": 1165, \
+"minecraft:golden_dandelion": 1166, \
+"minecraft:potted_golden_dandelion": 1167, \
 }
