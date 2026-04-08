@@ -4682,5 +4682,113 @@
   {
     "name": "minecraft:potted_golden_dandelion",
     "id": 1167
+  },
+  {
+    "name": "minecraft:chiseled_cinnabar",
+    "id": 1168
+  },
+  {
+    "name": "minecraft:chiseled_sulfur",
+    "id": 1169
+  },
+  {
+    "name": "minecraft:cinnabar",
+    "id": 1170
+  },
+  {
+    "name": "minecraft:cinnabar_brick_slab",
+    "id": 1171
+  },
+  {
+    "name": "minecraft:cinnabar_brick_stairs",
+    "id": 1172
+  },
+  {
+    "name": "minecraft:cinnabar_brick_wall",
+    "id": 1173
+  },
+  {
+    "name": "minecraft:cinnabar_bricks",
+    "id": 1174
+  },
+  {
+    "name": "minecraft:cinnabar_slab",
+    "id": 1175
+  },
+  {
+    "name": "minecraft:cinnabar_stairs",
+    "id": 1176
+  },
+  {
+    "name": "minecraft:cinnabar_wall",
+    "id": 1177
+  },
+  {
+    "name": "minecraft:polished_cinnabar",
+    "id": 1178
+  },
+  {
+    "name": "minecraft:polished_cinnabar_slab",
+    "id": 1179
+  },
+  {
+    "name": "minecraft:polished_cinnabar_stairs",
+    "id": 1180
+  },
+  {
+    "name": "minecraft:polished_cinnabar_wall",
+    "id": 1181
+  },
+  {
+    "name": "minecraft:polished_sulfur",
+    "id": 1182
+  },
+  {
+    "name": "minecraft:polished_sulfur_slab",
+    "id": 1183
+  },
+  {
+    "name": "minecraft:polished_sulfur_stairs",
+    "id": 1184
+  },
+  {
+    "name": "minecraft:polished_sulfur_wall",
+    "id": 1185
+  },
+  {
+    "name": "minecraft:potent_sulfur",
+    "id": 1186
+  },
+  {
+    "name": "minecraft:sulfur",
+    "id": 1187
+  },
+  {
+    "name": "minecraft:sulfur_brick_slab",
+    "id": 1188
+  },
+  {
+    "name": "minecraft:sulfur_brick_stairs",
+    "id": 1189
+  },
+  {
+    "name": "minecraft:sulfur_brick_wall",
+    "id": 1190
+  },
+  {
+    "name": "minecraft:sulfur_bricks",
+    "id": 1191
+  },
+  {
+    "name": "minecraft:sulfur_slab",
+    "id": 1192
+  },
+  {
+    "name": "minecraft:sulfur_stairs",
+    "id": 1193
+  },
+  {
+    "name": "minecraft:sulfur_wall",
+    "id": 1194
   }
 ]

@@ -1167,6 +1167,33 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:weathered_copper_lantern", \
 "minecraft:golden_dandelion", \
 "minecraft:potted_golden_dandelion", \
+"minecraft:chiseled_cinnabar", \
+"minecraft:chiseled_sulfur", \
+"minecraft:cinnabar", \
+"minecraft:cinnabar_brick_slab", \
+"minecraft:cinnabar_brick_stairs", \
+"minecraft:cinnabar_brick_wall", \
+"minecraft:cinnabar_bricks", \
+"minecraft:cinnabar_slab", \
+"minecraft:cinnabar_stairs", \
+"minecraft:cinnabar_wall", \
+"minecraft:polished_cinnabar", \
+"minecraft:polished_cinnabar_slab", \
+"minecraft:polished_cinnabar_stairs", \
+"minecraft:polished_cinnabar_wall", \
+"minecraft:polished_sulfur", \
+"minecraft:polished_sulfur_slab", \
+"minecraft:polished_sulfur_stairs", \
+"minecraft:polished_sulfur_wall", \
+"minecraft:potent_sulfur", \
+"minecraft:sulfur", \
+"minecraft:sulfur_brick_slab", \
+"minecraft:sulfur_brick_stairs", \
+"minecraft:sulfur_brick_wall", \
+"minecraft:sulfur_bricks", \
+"minecraft:sulfur_slab", \
+"minecraft:sulfur_stairs", \
+"minecraft:sulfur_wall", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2338,4 +2365,31 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:weathered_copper_lantern": 1165, \
 "minecraft:golden_dandelion": 1166, \
 "minecraft:potted_golden_dandelion": 1167, \
+"minecraft:chiseled_cinnabar": 1168, \
+"minecraft:chiseled_sulfur": 1169, \
+"minecraft:cinnabar": 1170, \
+"minecraft:cinnabar_brick_slab": 1171, \
+"minecraft:cinnabar_brick_stairs": 1172, \
+"minecraft:cinnabar_brick_wall": 1173, \
+"minecraft:cinnabar_bricks": 1174, \
+"minecraft:cinnabar_slab": 1175, \
+"minecraft:cinnabar_stairs": 1176, \
+"minecraft:cinnabar_wall": 1177, \
+"minecraft:polished_cinnabar": 1178, \
+"minecraft:polished_cinnabar_slab": 1179, \
+"minecraft:polished_cinnabar_stairs": 1180, \
+"minecraft:polished_cinnabar_wall": 1181, \
+"minecraft:polished_sulfur": 1182, \
+"minecraft:polished_sulfur_slab": 1183, \
+"minecraft:polished_sulfur_stairs": 1184, \
+"minecraft:polished_sulfur_wall": 1185, \
+"minecraft:potent_sulfur": 1186, \
+"minecraft:sulfur": 1187, \
+"minecraft:sulfur_brick_slab": 1188, \
+"minecraft:sulfur_brick_stairs": 1189, \
+"minecraft:sulfur_brick_wall": 1190, \
+"minecraft:sulfur_bricks": 1191, \
+"minecraft:sulfur_slab": 1192, \
+"minecraft:sulfur_stairs": 1193, \
+"minecraft:sulfur_wall": 1194, \
 }
