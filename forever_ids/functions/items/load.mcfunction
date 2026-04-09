@@ -1505,35 +1505,35 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:parched_spawn_egg", \
 "minecraft:netherite_horse_armor", \
 "minecraft:golden_dandelion", \
-"minecraft:chiseled_cinnabar", \
-"minecraft:chiseled_sulfur", \
-"minecraft:cinnabar", \
-"minecraft:cinnabar_brick_slab", \
-"minecraft:cinnabar_brick_stairs", \
-"minecraft:cinnabar_brick_wall", \
-"minecraft:cinnabar_bricks", \
-"minecraft:cinnabar_slab", \
-"minecraft:cinnabar_stairs", \
-"minecraft:cinnabar_wall", \
-"minecraft:polished_cinnabar", \
-"minecraft:polished_cinnabar_slab", \
-"minecraft:polished_cinnabar_stairs", \
-"minecraft:polished_cinnabar_wall", \
-"minecraft:polished_sulfur", \
-"minecraft:polished_sulfur_slab", \
-"minecraft:polished_sulfur_stairs", \
-"minecraft:polished_sulfur_wall", \
-"minecraft:potent_sulfur", \
-"minecraft:sulfur", \
-"minecraft:sulfur_brick_slab", \
-"minecraft:sulfur_brick_stairs", \
-"minecraft:sulfur_brick_wall", \
-"minecraft:sulfur_bricks", \
-"minecraft:sulfur_cube_bucket", \
-"minecraft:sulfur_cube_spawn_egg", \
-"minecraft:sulfur_slab", \
-"minecraft:sulfur_stairs", \
-"minecraft:sulfur_wall", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
+"", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3043,33 +3043,4 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:parched_spawn_egg": 1503, \
 "minecraft:netherite_horse_armor": 1504, \
 "minecraft:golden_dandelion": 1505, \
-"minecraft:chiseled_cinnabar": 1506, \
-"minecraft:chiseled_sulfur": 1507, \
-"minecraft:cinnabar": 1508, \
-"minecraft:cinnabar_brick_slab": 1509, \
-"minecraft:cinnabar_brick_stairs": 1510, \
-"minecraft:cinnabar_brick_wall": 1511, \
-"minecraft:cinnabar_bricks": 1512, \
-"minecraft:cinnabar_slab": 1513, \
-"minecraft:cinnabar_stairs": 1514, \
-"minecraft:cinnabar_wall": 1515, \
-"minecraft:polished_cinnabar": 1516, \
-"minecraft:polished_cinnabar_slab": 1517, \
-"minecraft:polished_cinnabar_stairs": 1518, \
-"minecraft:polished_cinnabar_wall": 1519, \
-"minecraft:polished_sulfur": 1520, \
-"minecraft:polished_sulfur_slab": 1521, \
-"minecraft:polished_sulfur_stairs": 1522, \
-"minecraft:polished_sulfur_wall": 1523, \
-"minecraft:potent_sulfur": 1524, \
-"minecraft:sulfur": 1525, \
-"minecraft:sulfur_brick_slab": 1526, \
-"minecraft:sulfur_brick_stairs": 1527, \
-"minecraft:sulfur_brick_wall": 1528, \
-"minecraft:sulfur_bricks": 1529, \
-"minecraft:sulfur_cube_bucket": 1530, \
-"minecraft:sulfur_cube_spawn_egg": 1531, \
-"minecraft:sulfur_slab": 1532, \
-"minecraft:sulfur_stairs": 1533, \
-"minecraft:sulfur_wall": 1534, \
 }
