@@ -4790,5 +4790,9 @@
   {
     "name": "minecraft:sulfur_wall",
     "id": 1194
+  },
+  {
+    "name": "minecraft:sulfur_spike",
+    "id": 1195
   }
 ]
