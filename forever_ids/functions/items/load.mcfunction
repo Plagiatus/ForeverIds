@@ -1535,6 +1535,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:sulfur_stairs", \
 "minecraft:sulfur_wall", \
 "minecraft:sulfur_spike", \
+"minecraft:music_disc_bounce", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3074,4 +3075,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:sulfur_stairs": 1533, \
 "minecraft:sulfur_wall": 1534, \
 "minecraft:sulfur_spike": 1535, \
+"minecraft:music_disc_bounce": 1536, \
 }

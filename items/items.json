@@ -6160,5 +6160,9 @@
   {
     "name": "minecraft:sulfur_spike",
     "id": 1535
+  },
+  {
+    "name": "minecraft:music_disc_bounce",
+    "id": 1536
   }
 ]
