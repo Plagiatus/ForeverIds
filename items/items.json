@@ -6164,5 +6164,229 @@
   {
     "name": "minecraft:music_disc_bounce",
     "id": 1536
+  },
+  {
+    "name": "minecraft:black_wool_slab",
+    "id": 1537
+  },
+  {
+    "name": "minecraft:black_wool_stairs",
+    "id": 1538
+  },
+  {
+    "name": "minecraft:blue_wool_slab",
+    "id": 1539
+  },
+  {
+    "name": "minecraft:blue_wool_stairs",
+    "id": 1540
+  },
+  {
+    "name": "minecraft:brown_wool_slab",
+    "id": 1541
+  },
+  {
+    "name": "minecraft:brown_wool_stairs",
+    "id": 1542
+  },
+  {
+    "name": "minecraft:cyan_wool_slab",
+    "id": 1543
+  },
+  {
+    "name": "minecraft:cyan_wool_stairs",
+    "id": 1544
+  },
+  {
+    "name": "minecraft:gray_wool_slab",
+    "id": 1545
+  },
+  {
+    "name": "minecraft:gray_wool_stairs",
+    "id": 1546
+  },
+  {
+    "name": "minecraft:green_wool_slab",
+    "id": 1547
+  },
+  {
+    "name": "minecraft:green_wool_stairs",
+    "id": 1548
+  },
+  {
+    "name": "minecraft:light_blue_wool_slab",
+    "id": 1549
+  },
+  {
+    "name": "minecraft:light_blue_wool_stairs",
+    "id": 1550
+  },
+  {
+    "name": "minecraft:light_gray_wool_slab",
+    "id": 1551
+  },
+  {
+    "name": "minecraft:light_gray_wool_stairs",
+    "id": 1552
+  },
+  {
+    "name": "minecraft:lime_wool_slab",
+    "id": 1553
+  },
+  {
+    "name": "minecraft:lime_wool_stairs",
+    "id": 1554
+  },
+  {
+    "name": "minecraft:magenta_wool_slab",
+    "id": 1555
+  },
+  {
+    "name": "minecraft:magenta_wool_stairs",
+    "id": 1556
+  },
+  {
+    "name": "minecraft:orange_poplar_leaves",
+    "id": 1557
+  },
+  {
+    "name": "minecraft:orange_wool_slab",
+    "id": 1558
+  },
+  {
+    "name": "minecraft:orange_wool_stairs",
+    "id": 1559
+  },
+  {
+    "name": "minecraft:pink_wool_slab",
+    "id": 1560
+  },
+  {
+    "name": "minecraft:pink_wool_stairs",
+    "id": 1561
+  },
+  {
+    "name": "minecraft:poplar_boat",
+    "id": 1562
+  },
+  {
+    "name": "minecraft:poplar_button",
+    "id": 1563
+  },
+  {
+    "name": "minecraft:poplar_chest_boat",
+    "id": 1564
+  },
+  {
+    "name": "minecraft:poplar_door",
+    "id": 1565
+  },
+  {
+    "name": "minecraft:poplar_fence",
+    "id": 1566
+  },
+  {
+    "name": "minecraft:poplar_fence_gate",
+    "id": 1567
+  },
+  {
+    "name": "minecraft:poplar_hanging_sign",
+    "id": 1568
+  },
+  {
+    "name": "minecraft:poplar_log",
+    "id": 1569
+  },
+  {
+    "name": "minecraft:poplar_planks",
+    "id": 1570
+  },
+  {
+    "name": "minecraft:poplar_pressure_plate",
+    "id": 1571
+  },
+  {
+    "name": "minecraft:poplar_sapling",
+    "id": 1572
+  },
+  {
+    "name": "minecraft:poplar_shelf",
+    "id": 1573
+  },
+  {
+    "name": "minecraft:poplar_sign",
+    "id": 1574
+  },
+  {
+    "name": "minecraft:poplar_slab",
+    "id": 1575
+  },
+  {
+    "name": "minecraft:poplar_stairs",
+    "id": 1576
+  },
+  {
+    "name": "minecraft:poplar_trapdoor",
+    "id": 1577
+  },
+  {
+    "name": "minecraft:poplar_wood",
+    "id": 1578
+  },
+  {
+    "name": "minecraft:purple_wool_slab",
+    "id": 1579
+  },
+  {
+    "name": "minecraft:purple_wool_stairs",
+    "id": 1580
+  },
+  {
+    "name": "minecraft:red_poplar_leaves",
+    "id": 1581
+  },
+  {
+    "name": "minecraft:red_shrub",
+    "id": 1582
+  },
+  {
+    "name": "minecraft:red_wool_slab",
+    "id": 1583
+  },
+  {
+    "name": "minecraft:red_wool_stairs",
+    "id": 1584
+  },
+  {
+    "name": "minecraft:shelf_mushroom",
+    "id": 1585
+  },
+  {
+    "name": "minecraft:stripped_poplar_log",
+    "id": 1586
+  },
+  {
+    "name": "minecraft:stripped_poplar_wood",
+    "id": 1587
+  },
+  {
+    "name": "minecraft:white_wool_slab",
+    "id": 1588
+  },
+  {
+    "name": "minecraft:white_wool_stairs",
+    "id": 1589
+  },
+  {
+    "name": "minecraft:yellow_poplar_leaves",
+    "id": 1590
+  },
+  {
+    "name": "minecraft:yellow_wool_slab",
+    "id": 1591
+  },
+  {
+    "name": "minecraft:yellow_wool_stairs",
+    "id": 1592
   }
 ]

@@ -1195,6 +1195,63 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:sulfur_stairs", \
 "minecraft:sulfur_wall", \
 "minecraft:sulfur_spike", \
+"minecraft:black_wool_slab", \
+"minecraft:black_wool_stairs", \
+"minecraft:blue_wool_slab", \
+"minecraft:blue_wool_stairs", \
+"minecraft:brown_wool_slab", \
+"minecraft:brown_wool_stairs", \
+"minecraft:cyan_wool_slab", \
+"minecraft:cyan_wool_stairs", \
+"minecraft:gray_wool_slab", \
+"minecraft:gray_wool_stairs", \
+"minecraft:green_wool_slab", \
+"minecraft:green_wool_stairs", \
+"minecraft:light_blue_wool_slab", \
+"minecraft:light_blue_wool_stairs", \
+"minecraft:light_gray_wool_slab", \
+"minecraft:light_gray_wool_stairs", \
+"minecraft:lime_wool_slab", \
+"minecraft:lime_wool_stairs", \
+"minecraft:magenta_wool_slab", \
+"minecraft:magenta_wool_stairs", \
+"minecraft:orange_poplar_leaves", \
+"minecraft:orange_wool_slab", \
+"minecraft:orange_wool_stairs", \
+"minecraft:pink_wool_slab", \
+"minecraft:pink_wool_stairs", \
+"minecraft:poplar_button", \
+"minecraft:poplar_door", \
+"minecraft:poplar_fence", \
+"minecraft:poplar_fence_gate", \
+"minecraft:poplar_hanging_sign", \
+"minecraft:poplar_log", \
+"minecraft:poplar_planks", \
+"minecraft:poplar_pressure_plate", \
+"minecraft:poplar_sapling", \
+"minecraft:poplar_shelf", \
+"minecraft:poplar_sign", \
+"minecraft:poplar_slab", \
+"minecraft:poplar_stairs", \
+"minecraft:poplar_trapdoor", \
+"minecraft:poplar_wall_hanging_sign", \
+"minecraft:poplar_wall_sign", \
+"minecraft:poplar_wood", \
+"minecraft:potted_poplar_sapling", \
+"minecraft:purple_wool_slab", \
+"minecraft:purple_wool_stairs", \
+"minecraft:red_poplar_leaves", \
+"minecraft:red_shrub", \
+"minecraft:red_wool_slab", \
+"minecraft:red_wool_stairs", \
+"minecraft:shelf_mushroom", \
+"minecraft:stripped_poplar_log", \
+"minecraft:stripped_poplar_wood", \
+"minecraft:white_wool_slab", \
+"minecraft:white_wool_stairs", \
+"minecraft:yellow_poplar_leaves", \
+"minecraft:yellow_wool_slab", \
+"minecraft:yellow_wool_stairs", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2394,4 +2451,61 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:sulfur_stairs": 1193, \
 "minecraft:sulfur_wall": 1194, \
 "minecraft:sulfur_spike": 1195, \
+"minecraft:black_wool_slab": 1196, \
+"minecraft:black_wool_stairs": 1197, \
+"minecraft:blue_wool_slab": 1198, \
+"minecraft:blue_wool_stairs": 1199, \
+"minecraft:brown_wool_slab": 1200, \
+"minecraft:brown_wool_stairs": 1201, \
+"minecraft:cyan_wool_slab": 1202, \
+"minecraft:cyan_wool_stairs": 1203, \
+"minecraft:gray_wool_slab": 1204, \
+"minecraft:gray_wool_stairs": 1205, \
+"minecraft:green_wool_slab": 1206, \
+"minecraft:green_wool_stairs": 1207, \
+"minecraft:light_blue_wool_slab": 1208, \
+"minecraft:light_blue_wool_stairs": 1209, \
+"minecraft:light_gray_wool_slab": 1210, \
+"minecraft:light_gray_wool_stairs": 1211, \
+"minecraft:lime_wool_slab": 1212, \
+"minecraft:lime_wool_stairs": 1213, \
+"minecraft:magenta_wool_slab": 1214, \
+"minecraft:magenta_wool_stairs": 1215, \
+"minecraft:orange_poplar_leaves": 1216, \
+"minecraft:orange_wool_slab": 1217, \
+"minecraft:orange_wool_stairs": 1218, \
+"minecraft:pink_wool_slab": 1219, \
+"minecraft:pink_wool_stairs": 1220, \
+"minecraft:poplar_button": 1221, \
+"minecraft:poplar_door": 1222, \
+"minecraft:poplar_fence": 1223, \
+"minecraft:poplar_fence_gate": 1224, \
+"minecraft:poplar_hanging_sign": 1225, \
+"minecraft:poplar_log": 1226, \
+"minecraft:poplar_planks": 1227, \
+"minecraft:poplar_pressure_plate": 1228, \
+"minecraft:poplar_sapling": 1229, \
+"minecraft:poplar_shelf": 1230, \
+"minecraft:poplar_sign": 1231, \
+"minecraft:poplar_slab": 1232, \
+"minecraft:poplar_stairs": 1233, \
+"minecraft:poplar_trapdoor": 1234, \
+"minecraft:poplar_wall_hanging_sign": 1235, \
+"minecraft:poplar_wall_sign": 1236, \
+"minecraft:poplar_wood": 1237, \
+"minecraft:potted_poplar_sapling": 1238, \
+"minecraft:purple_wool_slab": 1239, \
+"minecraft:purple_wool_stairs": 1240, \
+"minecraft:red_poplar_leaves": 1241, \
+"minecraft:red_shrub": 1242, \
+"minecraft:red_wool_slab": 1243, \
+"minecraft:red_wool_stairs": 1244, \
+"minecraft:shelf_mushroom": 1245, \
+"minecraft:stripped_poplar_log": 1246, \
+"minecraft:stripped_poplar_wood": 1247, \
+"minecraft:white_wool_slab": 1248, \
+"minecraft:white_wool_stairs": 1249, \
+"minecraft:yellow_poplar_leaves": 1250, \
+"minecraft:yellow_wool_slab": 1251, \
+"minecraft:yellow_wool_stairs": 1252, \
 }
