@@ -1252,6 +1252,7 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:yellow_poplar_leaves", \
 "minecraft:yellow_wool_slab", \
 "minecraft:yellow_wool_stairs", \
+"minecraft:straw_bed", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2508,4 +2509,5 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:yellow_poplar_leaves": 1250, \
 "minecraft:yellow_wool_slab": 1251, \
 "minecraft:yellow_wool_stairs": 1252, \
+"minecraft:straw_bed": 1253, \
 }

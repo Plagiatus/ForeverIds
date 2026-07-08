@@ -1592,6 +1592,23 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:yellow_poplar_leaves", \
 "minecraft:yellow_wool_slab", \
 "minecraft:yellow_wool_stairs", \
+"minecraft:black_cushion", \
+"minecraft:blue_cushion", \
+"minecraft:brown_cushion", \
+"minecraft:cyan_cushion", \
+"minecraft:gray_cushion", \
+"minecraft:green_cushion", \
+"minecraft:light_blue_cushion", \
+"minecraft:light_gray_cushion", \
+"minecraft:lime_cushion", \
+"minecraft:magenta_cushion", \
+"minecraft:orange_cushion", \
+"minecraft:pink_cushion", \
+"minecraft:purple_cushion", \
+"minecraft:red_cushion", \
+"minecraft:straw_bed", \
+"minecraft:white_cushion", \
+"minecraft:yellow_cushion", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3188,4 +3205,21 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:yellow_poplar_leaves": 1590, \
 "minecraft:yellow_wool_slab": 1591, \
 "minecraft:yellow_wool_stairs": 1592, \
+"minecraft:black_cushion": 1593, \
+"minecraft:blue_cushion": 1594, \
+"minecraft:brown_cushion": 1595, \
+"minecraft:cyan_cushion": 1596, \
+"minecraft:gray_cushion": 1597, \
+"minecraft:green_cushion": 1598, \
+"minecraft:light_blue_cushion": 1599, \
+"minecraft:light_gray_cushion": 1600, \
+"minecraft:lime_cushion": 1601, \
+"minecraft:magenta_cushion": 1602, \
+"minecraft:orange_cushion": 1603, \
+"minecraft:pink_cushion": 1604, \
+"minecraft:purple_cushion": 1605, \
+"minecraft:red_cushion": 1606, \
+"minecraft:straw_bed": 1607, \
+"minecraft:white_cushion": 1608, \
+"minecraft:yellow_cushion": 1609, \
 }

@@ -5022,5 +5022,9 @@
   {
     "name": "minecraft:yellow_wool_stairs",
     "id": 1252
+  },
+  {
+    "name": "minecraft:straw_bed",
+    "id": 1253
   }
 ]

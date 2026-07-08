@@ -6388,5 +6388,73 @@
   {
     "name": "minecraft:yellow_wool_stairs",
     "id": 1592
+  },
+  {
+    "name": "minecraft:black_cushion",
+    "id": 1593
+  },
+  {
+    "name": "minecraft:blue_cushion",
+    "id": 1594
+  },
+  {
+    "name": "minecraft:brown_cushion",
+    "id": 1595
+  },
+  {
+    "name": "minecraft:cyan_cushion",
+    "id": 1596
+  },
+  {
+    "name": "minecraft:gray_cushion",
+    "id": 1597
+  },
+  {
+    "name": "minecraft:green_cushion",
+    "id": 1598
+  },
+  {
+    "name": "minecraft:light_blue_cushion",
+    "id": 1599
+  },
+  {
+    "name": "minecraft:light_gray_cushion",
+    "id": 1600
+  },
+  {
+    "name": "minecraft:lime_cushion",
+    "id": 1601
+  },
+  {
+    "name": "minecraft:magenta_cushion",
+    "id": 1602
+  },
+  {
+    "name": "minecraft:orange_cushion",
+    "id": 1603
+  },
+  {
+    "name": "minecraft:pink_cushion",
+    "id": 1604
+  },
+  {
+    "name": "minecraft:purple_cushion",
+    "id": 1605
+  },
+  {
+    "name": "minecraft:red_cushion",
+    "id": 1606
+  },
+  {
+    "name": "minecraft:straw_bed",
+    "id": 1607
+  },
+  {
+    "name": "minecraft:white_cushion",
+    "id": 1608
+  },
+  {
+    "name": "minecraft:yellow_cushion",
+    "id": 1609
   }
 ]
