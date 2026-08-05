@@ -6456,5 +6456,197 @@
   {
     "name": "minecraft:yellow_cushion",
     "id": 1609
+  },
+  {
+    "name": "minecraft:abandoned_campsite_map",
+    "id": 1610
+  },
+  {
+    "name": "minecraft:ancient_city_map",
+    "id": 1611
+  },
+  {
+    "name": "minecraft:black_concrete_slab",
+    "id": 1612
+  },
+  {
+    "name": "minecraft:black_concrete_stairs",
+    "id": 1613
+  },
+  {
+    "name": "minecraft:blue_concrete_slab",
+    "id": 1614
+  },
+  {
+    "name": "minecraft:blue_concrete_stairs",
+    "id": 1615
+  },
+  {
+    "name": "minecraft:brown_concrete_slab",
+    "id": 1616
+  },
+  {
+    "name": "minecraft:brown_concrete_stairs",
+    "id": 1617
+  },
+  {
+    "name": "minecraft:buried_treasure_map",
+    "id": 1618
+  },
+  {
+    "name": "minecraft:cyan_concrete_slab",
+    "id": 1619
+  },
+  {
+    "name": "minecraft:cyan_concrete_stairs",
+    "id": 1620
+  },
+  {
+    "name": "minecraft:desert_pyramid_map",
+    "id": 1621
+  },
+  {
+    "name": "minecraft:desert_village_map",
+    "id": 1622
+  },
+  {
+    "name": "minecraft:gray_concrete_slab",
+    "id": 1623
+  },
+  {
+    "name": "minecraft:gray_concrete_stairs",
+    "id": 1624
+  },
+  {
+    "name": "minecraft:green_concrete_slab",
+    "id": 1625
+  },
+  {
+    "name": "minecraft:green_concrete_stairs",
+    "id": 1626
+  },
+  {
+    "name": "minecraft:jungle_explorer_map",
+    "id": 1627
+  },
+  {
+    "name": "minecraft:light_blue_concrete_slab",
+    "id": 1628
+  },
+  {
+    "name": "minecraft:light_blue_concrete_stairs",
+    "id": 1629
+  },
+  {
+    "name": "minecraft:light_gray_concrete_slab",
+    "id": 1630
+  },
+  {
+    "name": "minecraft:light_gray_concrete_stairs",
+    "id": 1631
+  },
+  {
+    "name": "minecraft:lime_concrete_slab",
+    "id": 1632
+  },
+  {
+    "name": "minecraft:lime_concrete_stairs",
+    "id": 1633
+  },
+  {
+    "name": "minecraft:magenta_concrete_slab",
+    "id": 1634
+  },
+  {
+    "name": "minecraft:magenta_concrete_stairs",
+    "id": 1635
+  },
+  {
+    "name": "minecraft:mineshaft_map",
+    "id": 1636
+  },
+  {
+    "name": "minecraft:ocean_explorer_map",
+    "id": 1637
+  },
+  {
+    "name": "minecraft:orange_concrete_slab",
+    "id": 1638
+  },
+  {
+    "name": "minecraft:orange_concrete_stairs",
+    "id": 1639
+  },
+  {
+    "name": "minecraft:pink_concrete_slab",
+    "id": 1640
+  },
+  {
+    "name": "minecraft:pink_concrete_stairs",
+    "id": 1641
+  },
+  {
+    "name": "minecraft:plains_village_map",
+    "id": 1642
+  },
+  {
+    "name": "minecraft:purple_concrete_slab",
+    "id": 1643
+  },
+  {
+    "name": "minecraft:purple_concrete_stairs",
+    "id": 1644
+  },
+  {
+    "name": "minecraft:red_concrete_slab",
+    "id": 1645
+  },
+  {
+    "name": "minecraft:red_concrete_stairs",
+    "id": 1646
+  },
+  {
+    "name": "minecraft:savanna_village_map",
+    "id": 1647
+  },
+  {
+    "name": "minecraft:snowy_village_map",
+    "id": 1648
+  },
+  {
+    "name": "minecraft:swamp_explorer_map",
+    "id": 1649
+  },
+  {
+    "name": "minecraft:taiga_village_map",
+    "id": 1650
+  },
+  {
+    "name": "minecraft:trial_explorer_map",
+    "id": 1651
+  },
+  {
+    "name": "minecraft:warm_ocean_ruins_map",
+    "id": 1652
+  },
+  {
+    "name": "minecraft:white_concrete_slab",
+    "id": 1653
+  },
+  {
+    "name": "minecraft:white_concrete_stairs",
+    "id": 1654
+  },
+  {
+    "name": "minecraft:woodland_explorer_map",
+    "id": 1655
+  },
+  {
+    "name": "minecraft:yellow_concrete_slab",
+    "id": 1656
+  },
+  {
+    "name": "minecraft:yellow_concrete_stairs",
+    "id": 1657
   }
 ]

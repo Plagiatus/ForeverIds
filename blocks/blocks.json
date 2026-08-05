@@ -5026,5 +5026,133 @@
   {
     "name": "minecraft:straw_bed",
     "id": 1253
+  },
+  {
+    "name": "minecraft:black_concrete_slab",
+    "id": 1254
+  },
+  {
+    "name": "minecraft:black_concrete_stairs",
+    "id": 1255
+  },
+  {
+    "name": "minecraft:blue_concrete_slab",
+    "id": 1256
+  },
+  {
+    "name": "minecraft:blue_concrete_stairs",
+    "id": 1257
+  },
+  {
+    "name": "minecraft:brown_concrete_slab",
+    "id": 1258
+  },
+  {
+    "name": "minecraft:brown_concrete_stairs",
+    "id": 1259
+  },
+  {
+    "name": "minecraft:cyan_concrete_slab",
+    "id": 1260
+  },
+  {
+    "name": "minecraft:cyan_concrete_stairs",
+    "id": 1261
+  },
+  {
+    "name": "minecraft:gray_concrete_slab",
+    "id": 1262
+  },
+  {
+    "name": "minecraft:gray_concrete_stairs",
+    "id": 1263
+  },
+  {
+    "name": "minecraft:green_concrete_slab",
+    "id": 1264
+  },
+  {
+    "name": "minecraft:green_concrete_stairs",
+    "id": 1265
+  },
+  {
+    "name": "minecraft:light_blue_concrete_slab",
+    "id": 1266
+  },
+  {
+    "name": "minecraft:light_blue_concrete_stairs",
+    "id": 1267
+  },
+  {
+    "name": "minecraft:light_gray_concrete_slab",
+    "id": 1268
+  },
+  {
+    "name": "minecraft:light_gray_concrete_stairs",
+    "id": 1269
+  },
+  {
+    "name": "minecraft:lime_concrete_slab",
+    "id": 1270
+  },
+  {
+    "name": "minecraft:lime_concrete_stairs",
+    "id": 1271
+  },
+  {
+    "name": "minecraft:magenta_concrete_slab",
+    "id": 1272
+  },
+  {
+    "name": "minecraft:magenta_concrete_stairs",
+    "id": 1273
+  },
+  {
+    "name": "minecraft:orange_concrete_slab",
+    "id": 1274
+  },
+  {
+    "name": "minecraft:orange_concrete_stairs",
+    "id": 1275
+  },
+  {
+    "name": "minecraft:pink_concrete_slab",
+    "id": 1276
+  },
+  {
+    "name": "minecraft:pink_concrete_stairs",
+    "id": 1277
+  },
+  {
+    "name": "minecraft:purple_concrete_slab",
+    "id": 1278
+  },
+  {
+    "name": "minecraft:purple_concrete_stairs",
+    "id": 1279
+  },
+  {
+    "name": "minecraft:red_concrete_slab",
+    "id": 1280
+  },
+  {
+    "name": "minecraft:red_concrete_stairs",
+    "id": 1281
+  },
+  {
+    "name": "minecraft:white_concrete_slab",
+    "id": 1282
+  },
+  {
+    "name": "minecraft:white_concrete_stairs",
+    "id": 1283
+  },
+  {
+    "name": "minecraft:yellow_concrete_slab",
+    "id": 1284
+  },
+  {
+    "name": "minecraft:yellow_concrete_stairs",
+    "id": 1285
   }
 ]

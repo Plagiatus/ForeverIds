@@ -1253,6 +1253,38 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:yellow_wool_slab", \
 "minecraft:yellow_wool_stairs", \
 "minecraft:straw_bed", \
+"minecraft:black_concrete_slab", \
+"minecraft:black_concrete_stairs", \
+"minecraft:blue_concrete_slab", \
+"minecraft:blue_concrete_stairs", \
+"minecraft:brown_concrete_slab", \
+"minecraft:brown_concrete_stairs", \
+"minecraft:cyan_concrete_slab", \
+"minecraft:cyan_concrete_stairs", \
+"minecraft:gray_concrete_slab", \
+"minecraft:gray_concrete_stairs", \
+"minecraft:green_concrete_slab", \
+"minecraft:green_concrete_stairs", \
+"minecraft:light_blue_concrete_slab", \
+"minecraft:light_blue_concrete_stairs", \
+"minecraft:light_gray_concrete_slab", \
+"minecraft:light_gray_concrete_stairs", \
+"minecraft:lime_concrete_slab", \
+"minecraft:lime_concrete_stairs", \
+"minecraft:magenta_concrete_slab", \
+"minecraft:magenta_concrete_stairs", \
+"minecraft:orange_concrete_slab", \
+"minecraft:orange_concrete_stairs", \
+"minecraft:pink_concrete_slab", \
+"minecraft:pink_concrete_stairs", \
+"minecraft:purple_concrete_slab", \
+"minecraft:purple_concrete_stairs", \
+"minecraft:red_concrete_slab", \
+"minecraft:red_concrete_stairs", \
+"minecraft:white_concrete_slab", \
+"minecraft:white_concrete_stairs", \
+"minecraft:yellow_concrete_slab", \
+"minecraft:yellow_concrete_stairs", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2510,4 +2542,36 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:yellow_wool_slab": 1251, \
 "minecraft:yellow_wool_stairs": 1252, \
 "minecraft:straw_bed": 1253, \
+"minecraft:black_concrete_slab": 1254, \
+"minecraft:black_concrete_stairs": 1255, \
+"minecraft:blue_concrete_slab": 1256, \
+"minecraft:blue_concrete_stairs": 1257, \
+"minecraft:brown_concrete_slab": 1258, \
+"minecraft:brown_concrete_stairs": 1259, \
+"minecraft:cyan_concrete_slab": 1260, \
+"minecraft:cyan_concrete_stairs": 1261, \
+"minecraft:gray_concrete_slab": 1262, \
+"minecraft:gray_concrete_stairs": 1263, \
+"minecraft:green_concrete_slab": 1264, \
+"minecraft:green_concrete_stairs": 1265, \
+"minecraft:light_blue_concrete_slab": 1266, \
+"minecraft:light_blue_concrete_stairs": 1267, \
+"minecraft:light_gray_concrete_slab": 1268, \
+"minecraft:light_gray_concrete_stairs": 1269, \
+"minecraft:lime_concrete_slab": 1270, \
+"minecraft:lime_concrete_stairs": 1271, \
+"minecraft:magenta_concrete_slab": 1272, \
+"minecraft:magenta_concrete_stairs": 1273, \
+"minecraft:orange_concrete_slab": 1274, \
+"minecraft:orange_concrete_stairs": 1275, \
+"minecraft:pink_concrete_slab": 1276, \
+"minecraft:pink_concrete_stairs": 1277, \
+"minecraft:purple_concrete_slab": 1278, \
+"minecraft:purple_concrete_stairs": 1279, \
+"minecraft:red_concrete_slab": 1280, \
+"minecraft:red_concrete_stairs": 1281, \
+"minecraft:white_concrete_slab": 1282, \
+"minecraft:white_concrete_stairs": 1283, \
+"minecraft:yellow_concrete_slab": 1284, \
+"minecraft:yellow_concrete_stairs": 1285, \
 }
