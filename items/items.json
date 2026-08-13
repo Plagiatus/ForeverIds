@@ -6458,12 +6458,24 @@
     "id": 1609
   },
   {
-    "name": "minecraft:abandoned_campsite_map",
-    "id": 1610
+    "name": "",
+    "id": 1610,
+    "previous": [
+      {
+        "name": "minecraft:abandoned_campsite_map",
+        "removed_in": "26.3-snapshot-8"
+      }
+    ]
   },
   {
-    "name": "minecraft:ancient_city_map",
-    "id": 1611
+    "name": "",
+    "id": 1611,
+    "previous": [
+      {
+        "name": "minecraft:ancient_city_map",
+        "removed_in": "26.3-snapshot-8"
+      }
+    ]
   },
   {
     "name": "minecraft:black_concrete_slab",
@@ -6562,8 +6574,14 @@
     "id": 1635
   },
   {
-    "name": "minecraft:mineshaft_map",
-    "id": 1636
+    "name": "",
+    "id": 1636,
+    "previous": [
+      {
+        "name": "minecraft:mineshaft_map",
+        "removed_in": "26.3-snapshot-8"
+      }
+    ]
   },
   {
     "name": "minecraft:ocean_explorer_map",
@@ -6648,5 +6666,17 @@
   {
     "name": "minecraft:yellow_concrete_stairs",
     "id": 1657
+  },
+  {
+    "name": "minecraft:abandoned_camp_map",
+    "id": 1658
+  },
+  {
+    "name": "minecraft:buried_ancient_city_map",
+    "id": 1659
+  },
+  {
+    "name": "minecraft:buried_mineshaft_map",
+    "id": 1660
   }
 ]
