@@ -6538,7 +6538,7 @@
     "id": 1626
   },
   {
-    "name": "",
+    "name": "minecraft:jungle_pyramid_map",
     "id": 1627,
     "previous": [
       {
@@ -6590,7 +6590,7 @@
     ]
   },
   {
-    "name": "",
+    "name": "minecraft:ocean_monument_map",
     "id": 1637,
     "previous": [
       {
@@ -6644,7 +6644,7 @@
     "id": 1648
   },
   {
-    "name": "",
+    "name": "minecraft:swamp_hut_map",
     "id": 1649,
     "previous": [
       {
@@ -6658,7 +6658,7 @@
     "id": 1650
   },
   {
-    "name": "",
+    "name": "minecraft:buried_trial_chambers_map",
     "id": 1651,
     "previous": [
       {
@@ -6680,7 +6680,7 @@
     "id": 1654
   },
   {
-    "name": "",
+    "name": "minecraft:woodland_mansion_map",
     "id": 1655,
     "previous": [
       {
@@ -6696,25 +6696,5 @@
   {
     "name": "minecraft:yellow_concrete_stairs",
     "id": 1657
-  },
-  {
-    "name": "minecraft:buried_trial_chambers_map",
-    "id": 1658
-  },
-  {
-    "name": "minecraft:jungle_pyramid_map",
-    "id": 1659
-  },
-  {
-    "name": "minecraft:ocean_monument_map",
-    "id": 1660
-  },
-  {
-    "name": "minecraft:swamp_hut_map",
-    "id": 1661
-  },
-  {
-    "name": "minecraft:woodland_mansion_map",
-    "id": 1662
   }
 ]
