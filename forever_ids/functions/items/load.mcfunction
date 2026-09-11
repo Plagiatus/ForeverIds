@@ -1609,8 +1609,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:straw_bed", \
 "minecraft:white_cushion", \
 "minecraft:yellow_cushion", \
-"minecraft:abandoned_campsite_map", \
-"minecraft:ancient_city_map", \
+"", \
+"", \
 "minecraft:black_concrete_slab", \
 "minecraft:black_concrete_stairs", \
 "minecraft:blue_concrete_slab", \
@@ -1626,7 +1626,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:gray_concrete_stairs", \
 "minecraft:green_concrete_slab", \
 "minecraft:green_concrete_stairs", \
-"minecraft:jungle_explorer_map", \
+"", \
 "minecraft:light_blue_concrete_slab", \
 "minecraft:light_blue_concrete_stairs", \
 "minecraft:light_gray_concrete_slab", \
@@ -1635,8 +1635,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:lime_concrete_stairs", \
 "minecraft:magenta_concrete_slab", \
 "minecraft:magenta_concrete_stairs", \
-"minecraft:mineshaft_map", \
-"minecraft:ocean_explorer_map", \
+"", \
+"", \
 "minecraft:orange_concrete_slab", \
 "minecraft:orange_concrete_stairs", \
 "minecraft:pink_concrete_slab", \
@@ -1648,15 +1648,23 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:red_concrete_stairs", \
 "minecraft:savanna_village_map", \
 "minecraft:snowy_village_map", \
-"minecraft:swamp_explorer_map", \
+"", \
 "minecraft:taiga_village_map", \
-"minecraft:trial_explorer_map", \
+"", \
 "minecraft:warm_ocean_ruins_map", \
 "minecraft:white_concrete_slab", \
 "minecraft:white_concrete_stairs", \
-"minecraft:woodland_explorer_map", \
+"", \
 "minecraft:yellow_concrete_slab", \
 "minecraft:yellow_concrete_stairs", \
+"minecraft:abandoned_camp_map", \
+"minecraft:buried_ancient_city_map", \
+"minecraft:buried_mineshaft_map", \
+"minecraft:buried_trial_chambers_map", \
+"minecraft:jungle_pyramid_map", \
+"minecraft:ocean_monument_map", \
+"minecraft:swamp_hut_map", \
+"minecraft:woodland_mansion_map", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3270,8 +3278,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:straw_bed": 1607, \
 "minecraft:white_cushion": 1608, \
 "minecraft:yellow_cushion": 1609, \
-"minecraft:abandoned_campsite_map": 1610, \
-"minecraft:ancient_city_map": 1611, \
 "minecraft:black_concrete_slab": 1612, \
 "minecraft:black_concrete_stairs": 1613, \
 "minecraft:blue_concrete_slab": 1614, \
@@ -3287,7 +3293,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:gray_concrete_stairs": 1624, \
 "minecraft:green_concrete_slab": 1625, \
 "minecraft:green_concrete_stairs": 1626, \
-"minecraft:jungle_explorer_map": 1627, \
 "minecraft:light_blue_concrete_slab": 1628, \
 "minecraft:light_blue_concrete_stairs": 1629, \
 "minecraft:light_gray_concrete_slab": 1630, \
@@ -3296,8 +3301,6 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:lime_concrete_stairs": 1633, \
 "minecraft:magenta_concrete_slab": 1634, \
 "minecraft:magenta_concrete_stairs": 1635, \
-"minecraft:mineshaft_map": 1636, \
-"minecraft:ocean_explorer_map": 1637, \
 "minecraft:orange_concrete_slab": 1638, \
 "minecraft:orange_concrete_stairs": 1639, \
 "minecraft:pink_concrete_slab": 1640, \
@@ -3309,13 +3312,18 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:red_concrete_stairs": 1646, \
 "minecraft:savanna_village_map": 1647, \
 "minecraft:snowy_village_map": 1648, \
-"minecraft:swamp_explorer_map": 1649, \
 "minecraft:taiga_village_map": 1650, \
-"minecraft:trial_explorer_map": 1651, \
 "minecraft:warm_ocean_ruins_map": 1652, \
 "minecraft:white_concrete_slab": 1653, \
 "minecraft:white_concrete_stairs": 1654, \
-"minecraft:woodland_explorer_map": 1655, \
 "minecraft:yellow_concrete_slab": 1656, \
 "minecraft:yellow_concrete_stairs": 1657, \
+"minecraft:abandoned_camp_map": 1658, \
+"minecraft:buried_ancient_city_map": 1659, \
+"minecraft:buried_mineshaft_map": 1660, \
+"minecraft:buried_trial_chambers_map": 1661, \
+"minecraft:jungle_pyramid_map": 1662, \
+"minecraft:ocean_monument_map": 1663, \
+"minecraft:swamp_hut_map": 1664, \
+"minecraft:woodland_mansion_map": 1665, \
 }
