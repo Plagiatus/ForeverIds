@@ -1609,8 +1609,8 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:straw_bed", \
 "minecraft:white_cushion", \
 "minecraft:yellow_cushion", \
-"minecraft:abandoned_campsite_map", \
-"minecraft:ancient_city_map", \
+"minecraft:abandoned_camp_map", \
+"minecraft:buried_ancient_city_map", \
 "minecraft:black_concrete_slab", \
 "minecraft:black_concrete_stairs", \
 "minecraft:blue_concrete_slab", \
@@ -1635,7 +1635,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:lime_concrete_stairs", \
 "minecraft:magenta_concrete_slab", \
 "minecraft:magenta_concrete_stairs", \
-"minecraft:mineshaft_map", \
+"minecraft:buried_mineshaft_map", \
 "minecraft:ocean_explorer_map", \
 "minecraft:orange_concrete_slab", \
 "minecraft:orange_concrete_stairs", \
@@ -3270,8 +3270,8 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:straw_bed": 1607, \
 "minecraft:white_cushion": 1608, \
 "minecraft:yellow_cushion": 1609, \
-"minecraft:abandoned_campsite_map": 1610, \
-"minecraft:ancient_city_map": 1611, \
+"minecraft:abandoned_camp_map": 1610, \
+"minecraft:buried_ancient_city_map": 1611, \
 "minecraft:black_concrete_slab": 1612, \
 "minecraft:black_concrete_stairs": 1613, \
 "minecraft:blue_concrete_slab": 1614, \
@@ -3296,7 +3296,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:lime_concrete_stairs": 1633, \
 "minecraft:magenta_concrete_slab": 1634, \
 "minecraft:magenta_concrete_stairs": 1635, \
-"minecraft:mineshaft_map": 1636, \
+"minecraft:buried_mineshaft_map": 1636, \
 "minecraft:ocean_explorer_map": 1637, \
 "minecraft:orange_concrete_slab": 1638, \
 "minecraft:orange_concrete_stairs": 1639, \
