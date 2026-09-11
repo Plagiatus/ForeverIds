@@ -1657,11 +1657,6 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:woodland_mansion_map", \
 "minecraft:yellow_concrete_slab", \
 "minecraft:yellow_concrete_stairs", \
-"minecraft:buried_trial_chambers_map", \
-"minecraft:jungle_pyramid_map", \
-"minecraft:ocean_monument_map", \
-"minecraft:swamp_hut_map", \
-"minecraft:woodland_mansion_map", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3302,6 +3297,7 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:magenta_concrete_slab": 1634, \
 "minecraft:magenta_concrete_stairs": 1635, \
 "minecraft:buried_mineshaft_map": 1636, \
+"minecraft:ocean_monument_map": 1637, \
 "minecraft:orange_concrete_slab": 1638, \
 "minecraft:orange_concrete_stairs": 1639, \
 "minecraft:pink_concrete_slab": 1640, \
@@ -3322,5 +3318,4 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:woodland_mansion_map": 1655, \
 "minecraft:yellow_concrete_slab": 1656, \
 "minecraft:yellow_concrete_stairs": 1657, \
-"minecraft:ocean_monument_map": 1637, \
 }
