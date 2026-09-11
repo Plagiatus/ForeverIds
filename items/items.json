@@ -6538,8 +6538,14 @@
     "id": 1626
   },
   {
-    "name": "minecraft:jungle_explorer_map",
-    "id": 1627
+    "name": "minecraft:jungle_pyramid_map",
+    "id": 1627,
+    "previous": [
+      {
+        "name": "minecraft:jungle_explorer_map",
+        "removed_in": "26.3-snapshot-10"
+      }
+    ]
   },
   {
     "name": "minecraft:light_blue_concrete_slab",
@@ -6584,8 +6590,14 @@
     ]
   },
   {
-    "name": "minecraft:ocean_explorer_map",
-    "id": 1637
+    "name": "minecraft:ocean_monument_map",
+    "id": 1637,
+    "previous": [
+      {
+        "name": "minecraft:ocean_explorer_map",
+        "removed_in": "26.3-snapshot-10"
+      }
+    ]
   },
   {
     "name": "minecraft:orange_concrete_slab",
@@ -6632,16 +6644,28 @@
     "id": 1648
   },
   {
-    "name": "minecraft:swamp_explorer_map",
-    "id": 1649
+    "name": "minecraft:swamp_hut_map",
+    "id": 1649,
+    "previous": [
+      {
+        "name": "minecraft:swamp_explorer_map",
+        "removed_in": "26.3-snapshot-10"
+      }
+    ]
   },
   {
     "name": "minecraft:taiga_village_map",
     "id": 1650
   },
   {
-    "name": "minecraft:trial_explorer_map",
-    "id": 1651
+    "name": "minecraft:buried_trial_chambers_map",
+    "id": 1651,
+    "previous": [
+      {
+        "name": "minecraft:trial_explorer_map",
+        "removed_in": "26.3-snapshot-10"
+      }
+    ]
   },
   {
     "name": "minecraft:warm_ocean_ruins_map",
@@ -6656,8 +6680,14 @@
     "id": 1654
   },
   {
-    "name": "minecraft:woodland_explorer_map",
-    "id": 1655
+    "name": "minecraft:woodland_mansion_map",
+    "id": 1655,
+    "previous": [
+      {
+        "name": "minecraft:woodland_explorer_map",
+        "removed_in": "26.3-snapshot-10"
+      }
+    ]
   },
   {
     "name": "minecraft:yellow_concrete_slab",
