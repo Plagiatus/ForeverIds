@@ -1285,6 +1285,8 @@ data modify storage forever_ids:data blocks.id_to_name set value [\
 "minecraft:white_concrete_stairs", \
 "minecraft:yellow_concrete_slab", \
 "minecraft:yellow_concrete_stairs", \
+"minecraft:ice_crystal", \
+"minecraft:icicle", \
 ]
 
 data modify storage forever_ids:data blocks.name_to_id set value {\
@@ -2574,4 +2576,6 @@ data modify storage forever_ids:data blocks.name_to_id set value {\
 "minecraft:white_concrete_stairs": 1283, \
 "minecraft:yellow_concrete_slab": 1284, \
 "minecraft:yellow_concrete_stairs": 1285, \
+"minecraft:ice_crystal": 1286, \
+"minecraft:icicle": 1287, \
 }

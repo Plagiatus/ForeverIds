@@ -5154,5 +5154,13 @@
   {
     "name": "minecraft:yellow_concrete_stairs",
     "id": 1285
+  },
+  {
+    "name": "minecraft:ice_crystal",
+    "id": 1286
+  },
+  {
+    "name": "minecraft:icicle",
+    "id": 1287
   }
 ]

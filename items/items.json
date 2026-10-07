@@ -6696,5 +6696,21 @@
   {
     "name": "minecraft:yellow_concrete_stairs",
     "id": 1657
+  },
+  {
+    "name": "minecraft:frostbite_spawn_egg",
+    "id": 1658
+  },
+  {
+    "name": "minecraft:ice_ball",
+    "id": 1659
+  },
+  {
+    "name": "minecraft:ice_crystal",
+    "id": 1660
+  },
+  {
+    "name": "minecraft:icicle",
+    "id": 1661
   }
 ]

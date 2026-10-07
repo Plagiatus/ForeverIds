@@ -1657,6 +1657,10 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:woodland_mansion_map", \
 "minecraft:yellow_concrete_slab", \
 "minecraft:yellow_concrete_stairs", \
+"minecraft:frostbite_spawn_egg", \
+"minecraft:ice_ball", \
+"minecraft:ice_crystal", \
+"minecraft:icicle", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3318,4 +3322,8 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:woodland_mansion_map": 1655, \
 "minecraft:yellow_concrete_slab": 1656, \
 "minecraft:yellow_concrete_stairs": 1657, \
+"minecraft:frostbite_spawn_egg": 1658, \
+"minecraft:ice_ball": 1659, \
+"minecraft:ice_crystal": 1660, \
+"minecraft:icicle": 1661, \
 }
