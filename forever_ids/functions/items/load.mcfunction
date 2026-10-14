@@ -1661,6 +1661,7 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:ice_ball", \
 "minecraft:ice_crystal", \
 "minecraft:icicle", \
+"minecraft:brittle_ice", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3326,4 +3327,5 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:ice_ball": 1659, \
 "minecraft:ice_crystal": 1660, \
 "minecraft:icicle": 1661, \
+"minecraft:brittle_ice": 1662, \
 }

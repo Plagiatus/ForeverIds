@@ -6712,5 +6712,9 @@
   {
     "name": "minecraft:icicle",
     "id": 1661
+  },
+  {
+    "name": "minecraft:brittle_ice",
+    "id": 1662
   }
 ]
