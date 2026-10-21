@@ -1662,6 +1662,11 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:ice_crystal", \
 "minecraft:icicle", \
 "minecraft:brittle_ice", \
+"minecraft:chiseled_packed_ice", \
+"minecraft:packed_ice_brick_slab", \
+"minecraft:packed_ice_brick_stairs", \
+"minecraft:packed_ice_brick_wall", \
+"minecraft:packed_ice_bricks", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3328,4 +3333,9 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:ice_crystal": 1660, \
 "minecraft:icicle": 1661, \
 "minecraft:brittle_ice": 1662, \
+"minecraft:chiseled_packed_ice": 1663, \
+"minecraft:packed_ice_brick_slab": 1664, \
+"minecraft:packed_ice_brick_stairs": 1665, \
+"minecraft:packed_ice_brick_wall": 1666, \
+"minecraft:packed_ice_bricks": 1667, \
 }

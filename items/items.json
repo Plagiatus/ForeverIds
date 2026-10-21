@@ -6716,5 +6716,25 @@
   {
     "name": "minecraft:brittle_ice",
     "id": 1662
+  },
+  {
+    "name": "minecraft:chiseled_packed_ice",
+    "id": 1663
+  },
+  {
+    "name": "minecraft:packed_ice_brick_slab",
+    "id": 1664
+  },
+  {
+    "name": "minecraft:packed_ice_brick_stairs",
+    "id": 1665
+  },
+  {
+    "name": "minecraft:packed_ice_brick_wall",
+    "id": 1666
+  },
+  {
+    "name": "minecraft:packed_ice_bricks",
+    "id": 1667
   }
 ]
