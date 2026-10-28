@@ -1667,6 +1667,10 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:packed_ice_brick_stairs", \
 "minecraft:packed_ice_brick_wall", \
 "minecraft:packed_ice_bricks", \
+"minecraft:snow_brick_slab", \
+"minecraft:snow_brick_stairs", \
+"minecraft:snow_brick_wall", \
+"minecraft:snow_bricks", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3338,4 +3342,8 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:packed_ice_brick_stairs": 1665, \
 "minecraft:packed_ice_brick_wall": 1666, \
 "minecraft:packed_ice_bricks": 1667, \
+"minecraft:snow_brick_slab": 1668, \
+"minecraft:snow_brick_stairs": 1669, \
+"minecraft:snow_brick_wall": 1670, \
+"minecraft:snow_bricks": 1671, \
 }

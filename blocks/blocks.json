@@ -5186,5 +5186,21 @@
   {
     "name": "minecraft:packed_ice_bricks",
     "id": 1293
+  },
+  {
+    "name": "minecraft:snow_brick_slab",
+    "id": 1294
+  },
+  {
+    "name": "minecraft:snow_brick_stairs",
+    "id": 1295
+  },
+  {
+    "name": "minecraft:snow_brick_wall",
+    "id": 1296
+  },
+  {
+    "name": "minecraft:snow_bricks",
+    "id": 1297
   }
 ]
