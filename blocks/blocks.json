@@ -5202,5 +5202,57 @@
   {
     "name": "minecraft:snow_bricks",
     "id": 1297
+  },
+  {
+    "name": "minecraft:calcite_pillar",
+    "id": 1298
+  },
+  {
+    "name": "minecraft:calcite_slab",
+    "id": 1299
+  },
+  {
+    "name": "minecraft:calcite_stairs",
+    "id": 1300
+  },
+  {
+    "name": "minecraft:calcite_wall",
+    "id": 1301
+  },
+  {
+    "name": "minecraft:chiseled_soulshale",
+    "id": 1302
+  },
+  {
+    "name": "minecraft:polished_calcite",
+    "id": 1303
+  },
+  {
+    "name": "minecraft:polished_calcite_brick_slab",
+    "id": 1304
+  },
+  {
+    "name": "minecraft:polished_calcite_brick_stairs",
+    "id": 1305
+  },
+  {
+    "name": "minecraft:polished_calcite_brick_wall",
+    "id": 1306
+  },
+  {
+    "name": "minecraft:polished_calcite_bricks",
+    "id": 1307
+  },
+  {
+    "name": "minecraft:polished_calcite_slab",
+    "id": 1308
+  },
+  {
+    "name": "minecraft:polished_calcite_stairs",
+    "id": 1309
+  },
+  {
+    "name": "minecraft:polished_calcite_wall",
+    "id": 1310
   }
 ]

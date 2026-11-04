@@ -1671,6 +1671,20 @@ data modify storage forever_ids:data items.id_to_name set value [\
 "minecraft:snow_brick_stairs", \
 "minecraft:snow_brick_wall", \
 "minecraft:snow_bricks", \
+"minecraft:calcite_pillar", \
+"minecraft:calcite_slab", \
+"minecraft:calcite_stairs", \
+"minecraft:calcite_wall", \
+"minecraft:chiseled_soulshale", \
+"minecraft:music_disc_flurry", \
+"minecraft:polished_calcite", \
+"minecraft:polished_calcite_brick_slab", \
+"minecraft:polished_calcite_brick_stairs", \
+"minecraft:polished_calcite_brick_wall", \
+"minecraft:polished_calcite_bricks", \
+"minecraft:polished_calcite_slab", \
+"minecraft:polished_calcite_stairs", \
+"minecraft:polished_calcite_wall", \
 ]
 
 data modify storage forever_ids:data items.name_to_id set value {\
@@ -3346,4 +3360,18 @@ data modify storage forever_ids:data items.name_to_id set value {\
 "minecraft:snow_brick_stairs": 1669, \
 "minecraft:snow_brick_wall": 1670, \
 "minecraft:snow_bricks": 1671, \
+"minecraft:calcite_pillar": 1672, \
+"minecraft:calcite_slab": 1673, \
+"minecraft:calcite_stairs": 1674, \
+"minecraft:calcite_wall": 1675, \
+"minecraft:chiseled_soulshale": 1676, \
+"minecraft:music_disc_flurry": 1677, \
+"minecraft:polished_calcite": 1678, \
+"minecraft:polished_calcite_brick_slab": 1679, \
+"minecraft:polished_calcite_brick_stairs": 1680, \
+"minecraft:polished_calcite_brick_wall": 1681, \
+"minecraft:polished_calcite_bricks": 1682, \
+"minecraft:polished_calcite_slab": 1683, \
+"minecraft:polished_calcite_stairs": 1684, \
+"minecraft:polished_calcite_wall": 1685, \
 }
